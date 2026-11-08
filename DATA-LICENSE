@@ -1,6 +1,6 @@
 The files in data/ (codes.json, codes.csv and year-letters.json) are adapted from
-these Wikipedia articles, written by Wikipedia contributors. The files in source/
-are unchanged extracts of the same articles.
+these Wikipedia articles, written by Wikipedia contributors. The .wikitext files in
+source/ are unchanged extracts of the same articles.
 
   "Vehicle registration plates of the United Kingdom", revision 1383646012
   https://en.wikipedia.org/w/index.php?title=Vehicle_registration_plates_of_the_United_Kingdom&oldid=1383646012
@@ -11,7 +11,9 @@ are unchanged extracts of the same articles.
 Changes: the code tables and year-letter tables were converted to JSON and CSV;
 footnotes and links were removed; each authority's years and notes were split into
 separate fields; earlier holders that the source gives only in a note were made into
-their own dated entries.
+their own dated entries; a few dates and notes were corrected from other
+sources, each listed with its source in source/corrections.json
+(https://github.com/Outlaw-8/uk-old-registration-codes/blob/main/source/corrections.json).
 
 The adapted data and the extracts in source/ are licensed under the Creative
 Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0):

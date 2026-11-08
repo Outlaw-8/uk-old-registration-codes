@@ -1,0 +1,18 @@
+[
+ {
+  "code": "HN", "authority": "Darlington", "field": "from", "was": 1921, "is": 1915,
+  "source": "Durham County Record Office (The Story), 'Vehicle Registration' guide: \"In 1915, Darlington was assigned HN\", with the surviving register HN 1 to HN 4900 covering 1915-1921. https://digitalcollections.thestorydurham.org/collection-information-guides/vehicle-registration"
+ },
+ {
+  "code": "FO", "authority": "Radnorshire", "field": "from", "was": null, "is": 1903,
+  "source": "Motor Sport, February 1964, 'The growth of motoring' (letters): \"registrations with this county began in December 1903\". https://www.motorsportmagazine.com/archive/article/february-1964/49/the-growth-of-motoring/"
+ },
+ {
+  "code": "CY", "authority": "Swansea", "field": "note", "was": "SCY used for Isles of Scilly", "is": null,
+  "source": "The note is about the mark SCY, not about Swansea's holding of CY; it moves to the code's notes (next correction)."
+ },
+ {
+  "code": "CY", "field": "notes", "was": [], "is": ["SCY issued by Truro for the Isles of Scilly from 1971; Swansea issued it before then"],
+  "source": "London Bus Routes, 'British Registrations': \"From 1971, 'Swansea' SCY marks were issued by Truro for use on the Isles of Scilly\". http://www.londonbusroutes.net/miscellaneous/regs.htm"
+ }
+]

@@ -44,6 +44,8 @@ export interface ParsedPlate {
 
 export interface PlateLookup extends ParsedPlate {
   entry: AreaCode | null;
+  /** The code's note on a three-letter mark kept apart from it (MAN, GPO, SCY), else null; then `authorities` is empty. */
+  special: string | null;
   /** Authorities that could have issued the mark, narrowed by year letter or the `year` option. */
   authorities: readonly Authority[];
 }

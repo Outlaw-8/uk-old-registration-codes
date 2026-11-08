@@ -57,16 +57,20 @@ export function parsePlate(plate) {
  * could have issued it. A suffix or prefix year letter narrows the list (and takes
  * precedence over `year`); for older plates pass `{ year }`, such as the year of first
  * registration. A year letter that was never issued (I, O, Q, U, Z) matches no authority.
+ * A three-letter mark that its code's notes name (MAN, GPO, SCY) is not read by its area
+ * code: `special` is that note, and no authority is listed.
  */
 export function lookupPlate(plate, options) {
   const parsed = parsePlate(plate);
   if (!parsed) return null;
   const entry = getCode(parsed.areaCode ?? '') ?? null;
+  const letters = parsed.mark.match(/[A-Z]{3}/)?.[0];
+  const special = (letters && entry?.notes.find((n) => n.startsWith(`${letters} `))) || null;
   const year = Number(options?.year);
   const range = parsed.issued
     ? [parsed.issued.fromYear, parsed.issued.toYear]
     : Number.isInteger(year) && year > 0 ? [year, year] : null;
   const matches = (a) => (a.from ?? -Infinity) <= range[1] && (a.to ?? Infinity) >= range[0];
-  const authorities = !entry || parsed.issued === null ? [] : range ? entry.authorities.filter(matches) : entry.authorities;
-  return { ...parsed, entry, authorities };
+  const authorities = !entry || special || parsed.issued === null ? [] : range ? entry.authorities.filter(matches) : entry.authorities;
+  return { ...parsed, entry, special, authorities };
 }

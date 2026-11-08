@@ -42,9 +42,9 @@ getCode('XS');
 |---|---|
 | `getCode(code)` | The entry for one area code, or `undefined` |
 | `parsePlate(plate)` | `{ mark, format, areaCode, yearLetter?, issued? }`, or `null` if the text is not a UK registration mark |
-| `lookupPlate(plate, { year }?)` | What `parsePlate` returns, plus `entry` (the area code) and `authorities` (those that could have issued it) |
+| `lookupPlate(plate, { year }?)` | What `parsePlate` returns, plus `entry` (the area code), `authorities` (those that could have issued it) and `special` (the note on a mark kept apart, or `null`) |
 
-`year` can be a number or a numeric string. A year letter on the plate takes precedence over it. A letter that was never issued as a year letter (I, O, Q, U, Z) gives an empty `authorities` list.
+`year` can be a number or a numeric string. A year letter on the plate takes precedence over it. A letter that was never issued as a year letter (I, O, Q, U, Z) gives an empty `authorities` list. So does a three-letter mark that its code's notes name: `lookupPlate('MAN 1').special` is `'MAN reserved for Isle of Man'`, and GPO and SCY work the same way.
 
 `codes` (an array of area codes) and `yearLetters` (`{ suffix, prefix }`) are also exported.
 
@@ -85,7 +85,7 @@ Spaces, hyphens and case are ignored.
 - Northern Ireland codes have no dates here apart from the 2025 moves away from Belfast. Their place names follow the source table, which writes most counties without "County".
 - Some earlier holders have no start year in the source (Warrington for ED, for example), so they have `from: null`.
 - Where an authority handed over a code during a year, both authorities match that year.
-- Special three-letter marks are read by their last two letters like any other mark, so `lookupPlate` gives the wrong place for them: MAN (Isle of Man), SCY (Isles of Scilly), GPO (Post Office), QNI and LTZ.
+- Only the special marks the data notes (MAN, GPO, SCY) are recognised; others, such as QNI and LTZ, are read by their last two letters like any other mark.
 - The parser checks the shape of a mark, not whether the serial number was ever issued.
 - Codes of the Republic of Ireland (those starting with Z, and some with I) are not included.
 
@@ -96,7 +96,9 @@ The data is built from two Wikipedia articles, saved in `source/` at fixed revis
 - [Vehicle registration plates of the United Kingdom](https://en.wikipedia.org/w/index.php?title=Vehicle_registration_plates_of_the_United_Kingdom&oldid=1383646012), revision 1383646012: the sections "Pre-2001 codes" and "Year identifiers".
 - [Vehicle registration plates of Northern Ireland](https://en.wikipedia.org/w/index.php?title=Vehicle_registration_plates_of_Northern_Ireland&oldid=1383671713), revision 1383671713: the table of codes.
 
-`npm run fetch` downloads those revisions again, `npm run build` turns them into `data/`, and `npm test` checks that the build reproduces the published files.
+Where other sources show the Wikipedia text to be wrong, `source/corrections.json` corrects it, with each correction's source: Darlington's HN from 1915, Radnorshire's FO from 1903, and SCY's move to the Isles of Scilly in 1971.
+
+`npm run fetch` downloads those revisions again, `npm run build` turns them into `data/` (applying the corrections), and `npm test` checks that the build reproduces the published files.
 
 The data in `data/` is adapted from those articles by Wikipedia contributors, and `source/` holds the article text itself. Both are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (see `DATA-LICENSE`). The code is MIT (see `LICENSE`). A bundle that includes the package includes the CC BY-SA data too, so keep `DATA-LICENSE` with it.
 

@@ -153,13 +153,29 @@ export function toCsv(codes) {
   return rows.map((r) => r.map(esc).join(',')).join('\n') + '\n';
 }
 
+/**
+ * Applies source/corrections.json: values other sources show to be wrong in the Wikipedia text. Each correction
+ * names the value it replaces, so the build stops if the source text changes under it.
+ */
+export function applyCorrections(codes, corrections) {
+  for (const { code, authority, field, was, is } of corrections) {
+    const entry = codes.find((c) => c.code === code);
+    const target = authority ? entry?.authorities.find((a) => a.name === authority) : entry;
+    if (!target || JSON.stringify(target[field]) !== JSON.stringify(was)) {
+      throw new Error(`correction ${code} ${authority ?? ''} ${field}: the source no longer gives ${JSON.stringify(was)}`);
+    }
+    target[field] = is;
+  }
+  return codes;
+}
+
 /** Parses the saved sources into the published data. */
 export async function buildData() {
   const read = (f) => readFile(new URL(`../source/${f}`, import.meta.url), 'utf8');
-  const codes = [
+  const codes = applyCorrections([
     ...parseCodeTable(await read('gb-codes.wikitext'), 'GB'),
     ...parseCodeTable(niCodeTable(await read('ni-codes.wikitext')), 'NI'),
-  ].sort((a, b) => (a.code < b.code ? -1 : 1)); // plain code-unit order, the same in every locale
+  ], JSON.parse(await read('corrections.json'))).sort((a, b) => (a.code < b.code ? -1 : 1)); // plain code-unit order, the same in every locale
   return { codes, yearLetters: parseYearLetters(await read('year-letters.wikitext')) };
 }
 

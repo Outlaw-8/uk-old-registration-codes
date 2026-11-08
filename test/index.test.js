@@ -2,7 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { codes, yearLetters, getCode, parsePlate, lookupPlate } from '../index.js';
 import { readFile } from 'node:fs/promises';
-import { buildData, cellItems, cleanWikitext, expandHistory, parseItem, toCsv } from '../scripts/build-data.mjs';
+import { applyCorrections, buildData, cellItems, cleanWikitext, expandHistory, parseItem, toCsv } from '../scripts/build-data.mjs';
 
 const names = (authorities) => authorities.map((a) => a.name);
 
@@ -73,6 +73,25 @@ test('earlier holders kept in source notes become dated authorities', () => {
   assert.deepEqual(names(lookupPlate('ATZ 1234', { year: 1990 }).authorities), ['Belfast']);
   assert.deepEqual(names(lookupPlate('ATZ 1234', { year: 2026 }).authorities), ['Downpatrick']);
   assert.deepEqual(getCode('XP').notes, ['later temporary plates for vehicles being exported to Europe']);
+});
+
+test('marks kept apart from their area code are reported, not read by it', () => {
+  const man = lookupPlate('MAN 1');
+  assert.equal(man.special, 'MAN reserved for Isle of Man');
+  assert.deepEqual(man.authorities, []);
+  assert.match(lookupPlate('GPO 123').special, /^GPO /);
+  assert.match(lookupPlate('SCY 123L').special, /^SCY .*1971/);
+  assert.equal(lookupPlate('KAN 1').special, null);
+  assert.deepEqual(names(lookupPlate('KAN 1', { year: 1950 }).authorities), ['West Ham']);
+});
+
+test('corrections from other sources are applied, and stop the build if the source changes', () => {
+  assert.deepEqual(names(lookupPlate('HN 1', { year: 1918 }).authorities), ['Darlington']);
+  assert.equal(getCode('FO').authorities[0].from, 1903);
+  assert.equal(getCode('CY').authorities[0].note, null);
+  const sample = () => [{ code: 'HN', authorities: [{ name: 'Darlington', from: 1921 }], notes: [] }];
+  assert.equal(applyCorrections(sample(), [{ code: 'HN', authority: 'Darlington', field: 'from', was: 1921, is: 1915 }])[0].authorities[0].from, 1915);
+  assert.throws(() => applyCorrections(sample(), [{ code: 'HN', authority: 'Darlington', field: 'from', was: 1920, is: 1915 }]), /no longer gives 1920/);
 });
 
 test('lookupPlate covers Northern Ireland codes and unknown or current marks', () => {
