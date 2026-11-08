@@ -1,0 +1,51 @@
+{
+  "name": "uk-old-registration-codes",
+  "version": "1.0.0",
+  "description": "UK vehicle registration area codes from 1903 to 2001, with the councils and offices that issued them, plus a parser that dates and places an old British number plate.",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    },
+    "./codes.json": "./data/codes.json",
+    "./year-letters.json": "./data/year-letters.json",
+    "./codes.csv": "./data/codes.csv"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "data/",
+    "DATA-LICENSE",
+    "LICENSE"
+  ],
+  "scripts": {
+    "fetch": "node scripts/fetch-sources.mjs",
+    "build": "node scripts/build-data.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20.10"
+  },
+  "keywords": [
+    "uk",
+    "registration",
+    "number-plate",
+    "license-plate",
+    "dvla",
+    "classic-car",
+    "vintage-car",
+    "dataset"
+  ],
+  "author": {
+    "name": "OUTLAW 8",
+    "url": "https://outlaw8.com"
+  },
+  "license": "(MIT AND CC-BY-SA-4.0)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Outlaw-8/uk-old-registration-codes.git"
+  },
+  "homepage": "https://github.com/Outlaw-8/uk-old-registration-codes#readme",
+  "bugs": "https://github.com/Outlaw-8/uk-old-registration-codes/issues"
+}

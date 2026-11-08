@@ -1,0 +1,400 @@
+==== Pre-2001 codes ====
+Normally the last two letters would indicate where the car was initially registered. The letters I and Z are reserved for Ireland.<ref>{{cite web |url=http://www.licenseplatemania.com/landenpaginas/engeland.htm |title=United Kingdom |publisher=Licenseplatemania.com |access-date=30 January 2015}}</ref><ref>{{cite web |url=http://www.motorcycle.co.uk/reference/uk-registration-letters-and-area-codes |title=UK Vehicle Registration Letters and Area Codes |work=motorcycle.co.uk |year=2015 |access-date=30 January 2015}}</ref> The office code (or council code until 1974) can be seen in bold letters next to the examples (A'''BC''' 123''D''; ''A''123 B'''CD'''). The first two letters of the post-2001 system are not the same as the last two letters, which indicate the original district of registration for pre-2001 number plates; so, for example, pre-2001 AB is Worcester, whereas post-2001 AB is Peterborough.
+
+For the list of Northern Ireland codes, see the [[#Northern Ireland|Northern Ireland]] section of this article. For a full list of Irish codes, see [[Vehicle registration plates of the Republic of Ireland#Pre-1987 mark codes|Vehicle registration plates of the Republic of Ireland]].
+
+{| class="wikitable sortable"
+|-
+!First letter !!Code !!County or city !!Code !!County or city !!Code !!County or city
+|-
+!rowspan="8" |A
+|A ||London (1903–1964) ||AA ||{{ubl|Hampshire (1903–1974)|Salisbury (1974–1980)|Bournemouth (for Salisbury) (from 1980)}} ||AB ||{{ubl|Worcestershire (1903–1974)|Worcester (from 1974)}}
+|-
+|AC ||{{ubl|Warwickshire (1903–1974)|Coventry (1974–1996)}} ||AD ||{{ubl|Gloucestershire (1903–1974)|Gloucester (1974–1997)}} ||AE ||Bristol
+|-
+|AF ||{{ubl|Cornwall (1903–1974)|Truro (from 1974)}} ||AG ||{{ubl|Ayrshire (1925–1974)|Hull (from 1974)}} ||AH ||{{ubl|Norfolk (1903–1974)|Norwich (from 1974)}}
+|-
+|AJ ||{{ubl|Yorkshire (North Riding) (1903–1974)|Middlesbrough (from 1974)}} ||AK ||{{ubl|Bradford (1903–1974)|Sheffield (from 1974)}} ||AL ||{{ubl|Nottinghamshire (1903–1974)|Nottingham (from 1974)}}
+|-
+|AM ||{{ubl|Wiltshire (1903–1974)|Swindon (1974–1997)|Bristol (for Swindon) (from 1997)}} ||AN ||{{ubl|West Ham (1903–1965)|Greater London (1965–1974)<ref name=index1965/>|Reading (from 1974)|(MAN reserved for Isle of Man)}} ||AO ||{{ubl|Cumberland (1903–1974)|Carlisle (from 1974)}}
+|-
+|AP ||{{ubl|East Sussex (1903–1974)|Brighton (from 1974) }}||AR ||{{ubl|Hertfordshire (1903–1974)|Chelmsford (from 1974) }}||AS ||{{ubl|Nairnshire (1903–1974)|Inverness (from 1974)}}
+|-
+|AT ||Hull ||AU ||Nottingham ||AV ||{{ubl|Aberdeenshire (1926–1974)|Peterborough (from 1974)}}
+|-
+|AW ||{{ubl|Shropshire (1903–1974)|Shrewsbury (from 1974) }}||AX ||{{ubl|Monmouthshire (1903–1974)|Cardiff (from 1974) }}||AY ||{{ubl|Leicestershire (1903–1974)|Leicester (1974–1996)|Nottingham (for Leicester) (from 1996)}}
+|-
+!rowspan="8" |B
+|B ||Lancashire (1903–1963) ||BA ||{{ubl|Salford (1903–1974)|Manchester (from 1974) }}||BB ||Newcastle upon Tyne
+|-
+|BC ||{{ubl|Leicester (1903–1996)|Nottingham (for Leicester) (from 1996) }}||BD ||{{ubl|Northamptonshire (1903–1974)|Northampton (from 1974) }}||BE ||{{ubl|Lincolnshire (Lindsey) (1903–1974)|Grimsby (1974–1981)|Lincoln (for Grimsby) (from 1981)}}
+|-
+|BF ||{{ubl|Dorset (1903–1905)|Staffordshire (1960–1974)|Stoke-on-Trent (1974–1997)|Nottingham (for Stoke-on-Trent) (from 1997) }}||BG ||{{ubl|Birkenhead (1931–1974)|Liverpool (1974–1996) }}||BH ||{{ubl|Buckinghamshire (1903–1974)|Luton (from 1974)}}
+|-
+|BJ ||{{ubl|East Suffolk (1903–1974)|Ipswich (from 1974) }}||BK ||Portsmouth ||BL ||{{ubl|Berkshire (1903–1974)|Reading (from 1974)}}
+|-
+|BM ||{{ubl|Bedfordshire (1903–1974)|Luton (from 1974) }}||BN ||{{ubl|Bolton (1903–1981)|Manchester (for Bolton) (from 1981) }}||BO ||Cardiff
+|-
+|BP ||{{ubl|West Sussex (1903–1974)|Portsmouth (from 1974) }}||BR ||{{ubl|Sunderland (1903–1974)|Durham (1974–1981)|Newcastle upon Tyne (for Durham) (from 1981) }}||BS ||{{ubl|Orkney (1903–1974)|Kirkwall (1974–1980)|Inverness (for Kirkwall) (from 1980)}}
+|-
+|BT ||{{ubl|Yorkshire (East Riding) (1903–1974)|York (1974–1981)|Leeds (for York) (from 1981) }}||BU ||{{ubl|Oldham (1903–1974)|Manchester (from 1974) }}||BV ||{{ubl|Blackburn (1930–1974)|Preston (from 1974)}}
+|-
+|BW ||{{ubl|Oxfordshire (1903–1974)|Oxford (from 1974) }}||BX ||{{ubl|Carmarthenshire (1903–1974)|Haverfordwest (1974–1996)|Swansea (for Haverfordwest) (from 1996) }}||BY ||{{ubl|Croydon (1903–1965)|Greater London (1965–1974)<ref name=index1965/>|London North-West (from 1974)}}
+|-
+!rowspan="8" |C
+|C ||Yorkshire (West Riding) (1903–1964) ||CA ||{{ubl|Denbighshire (1903–1974)|Chester (from 1974) }}||CB ||{{ubl|Blackburn (1903–1974)|Bolton (1974–1981)|Manchester (for Bolton) (from 1981)}}
+|-
+|CC ||{{ubl|Caernarfonshire (1903–1974)|Bangor (from 1974) }}||CD ||Brighton ||CE ||{{ubl|Cambridgeshire (1903–1965)|Cambridgeshire and Isle of Ely (1965–1974)<ref name=index1965/>|Cambridge (1974–1980)|Peterborough (for Cambridge) (from 1980)}}
+|-
+|CF ||{{ubl|West Suffolk (1903–1974)|Reading (from 1974) }}||CG ||{{ubl|Hampshire (1931–1974)|Salisbury (1974–1980)|Bournemouth (for Salisbury) (from 1980) }}||CH ||{{ubl|Derby (1903–1974)|Nottingham (from 1974)}}
+|-
+|CJ ||{{ubl|Herefordshire (1903–1974)|Hereford (1974–1981)|Gloucester (for Hereford) (1981–1997) }}||CK ||Preston ||CL ||Norwich
+|-
+|CM ||{{ubl|Birkenhead (1903–1974)|Liverpool (1974–1996) }}||CN ||{{ubl|Gateshead (1903–1974)|Newcastle upon Tyne (from 1974) }}||CO ||{{ubl|Plymouth (1903–1980)|unused after 1980}}
+|-
+|CP ||{{ubl|Halifax (1903–1974)|Huddersfield (1974–1995) }}||CR ||{{ubl|Southampton (1903–1974)|Portsmouth (from 1974) }}||CS ||{{ubl|Ayrshire (1934–1974)|Ayr (1974–1981)|Glasgow (for Ayr) (from 1981)}}
+|-
+|CT ||{{ubl|Lincolnshire (Kesteven) (1903–1974)|Boston (1974–1981)|Lincoln (for Boston) (from 1981) }}||CU ||{{ubl|South Shields (1903–1974)|Newcastle upon Tyne (from 1974) }}||CV ||{{ubl|Cornwall (1929–1974)|Truro (from 1974)}}
+|-
+|CW ||{{ubl|Burnley (1903–1974)|Preston (from 1974) }}||CX ||Huddersfield ||CY ||Swansea (SCY used for Isles of Scilly)
+|-
+!rowspan="8" |D
+|D ||Kent (1903–1964) ||DA ||{{ubl|Wolverhampton (1903–1974)|Birmingham (from 1974) }}||DB ||{{ubl|Stockport (1903–1974)|Manchester (from 1974)}}
+|-
+|DC ||{{ubl|Middlesbrough (1904–1968)|Teesside (1968–1974)<ref name="indexmarks1968"/>|Middlesbrough (from 1974) }}||DD ||{{ubl|Gloucestershire (1921–1974)|Gloucester (1974–1997) }}||DE ||{{ubl|Pembrokeshire (1903–1974)|Haverfordwest (1974–1996)|Swansea (for Haverfordwest) (from 1996)}}
+|-
+|DF ||{{ubl|Northampton (1903–1905)|Gloucestershire (1926–1974)|Gloucester (1974–1997) }}||DG ||{{ubl|Gloucestershire (1930–1974)|Gloucester (1974–1997) }}||DH ||{{ubl|Walsall (1903–1974)|Dudley (1974–1996)}}
+|-
+|DJ ||{{ubl|St Helens (1903–1974)|Warrington (1974–1981)|Liverpool (for Warrington) (1981–1996) }}||DK ||{{ubl|Rochdale (1903–1974)|Bolton (1974–1981)|Manchester (for Bolton) (from 1981) }}||DL ||{{ubl|Isle of Wight (1903–1974)|Newport (IoW) (1974–1981)|Portsmouth (for IoW) (from 1981)}}
+|-
+|DM ||{{ubl|Flintshire (1903–1974)|Chester (from 1974) }}||DN ||{{ubl|York (1903–1981)|Leeds (for York) (from 1981) }}||DO ||{{ubl|Lincolnshire (Holland) (1903–1974)|Boston (1974–1981)|Lincoln (for Boston) (from 1981)}}
+|-
+|DP ||Reading ||DR ||{{ubl|Devonport (1903–1914)|Plymouth (1926–1980)|unused after 1980 }}||DS ||{{ubl|Peeblesshire (1903–1974)|Glasgow (from 1974)}}
+|-
+|DT ||{{ubl|Doncaster (1927–1974)|Sheffield (from 1974) }}||DU ||Coventry ||DV ||{{ubl|Devon (1929–1974)|Exeter (from 1974)}}
+|-
+|DW ||{{ubl|Newport (1903–1974)|Cardiff (from 1974) }}||DX ||Ipswich ||DY ||{{ubl|Hastings (1903–1980)|Brighton (for Hastings) (from 1980)}}
+|-
+!rowspan="8" |E
+|E ||Staffordshire (1903–1963) ||EA ||{{ubl|West Bromwich (1903–1974)|Dudley (1974–1996) }}||EB ||{{ubl|Isle of Ely (1903–1965)|Cambridgeshire and Isle of Ely (1965–1974)<ref name=index1965/>|Cambridge (1974–1980)|Peterborough (for Cambridge) (from 1980)}}
+|-
+|EC ||{{ubl|Westmorland (1903–1974)|Kendal (1974–1981)|Preston (for Kendal) (from 1981) }}||ED ||Liverpool (Warrington until 1981) ||EE ||{{ubl|Grimsby (1903–1981)|Lincoln (for Grimsby) (from 1981)}}
+|-
+|EF ||{{ubl|West Hartlepool (1903–1967)|Hartlepool (1967–1974)<ref name="index1967">The Road Vehicles (Index Marks) (Amendment) Regulations 1967 (S.I. 1967/315)</ref>|Middlesbrough (from 1974) }}||EG ||{{ubl|Soke of Peterborough (1931–1965)|Huntingdon and Peterborough (1965–1974)<ref name=index1965/>|Peterborough (from 1974) }}||EH ||{{ubl|Stoke-on-Trent (1903–1997)|Nottingham (for Stoke-on-Trent) (from 1997) }}
+|-
+|EJ ||{{ubl|Haverfordwest (Cardiganshire until 1974,|Aberystwyth until 1981) }}||EK ||{{ubl|Wigan (1903–1974)|Warrington (1974–1981)|Liverpool (for Warrington) (1981–1996) }}||EL ||Bournemouth
+|-
+|EM ||{{ubl|Bootle (1903–1974)|Liverpool (1974–1996) }}||EN ||{{ubl|Bury (1903–1974)|Bolton (1974–1981)|Manchester (for Bolton) (from 1981) }}||EO ||{{ubl|Barrow-in-Furness (1903–1981)|Preston (for Barrow-in-Furness) (from 1981)}}
+|-
+|EP ||{{ubl|Montgomeryshire (1903–1974)|Swansea (from 1974) }}||ER ||{{ubl|Cambridgeshire (1922–1965)|Cambridgeshire and Isle of Ely (1965–1974)<ref name=index1965/>|Cambridge (1974–1980)|Peterborough (for Cambridge) (from 1980) }}||ES ||{{ubl|Perthshire (1903–1974)|Dundee (from 1974)}}
+|-
+|ET ||{{ubl|Rotherham (1903–1974)|Sheffield (from 1974) }}||EU ||{{ubl|Breconshire (1903–1974)|Bristol (from 1974) }}||EV ||{{ubl|Essex (1931–1974)|Chelmsford (from 1974)}}
+|-
+|EW ||{{ubl|Huntingdonshire (1903–1965)|Huntingdon and Peterborough (1965–1974)<ref name=index1965/>|Peterborough (from 1974) }}||EX ||{{ubl|Great Yarmouth (1903–1974)|Norwich (from 1974) }}||EY ||{{ubl|Anglesey (1903–1974)|Bangor (from 1974)}}
+|-
+!rowspan="8" |F
+|F ||Essex (1903–1963) ||FA ||{{ubl|Burton upon Trent (1903–1974)|Stoke-on-Trent (1974–1997)|Nottingham (for Stoke-on-Trent) (from 1997) }}||FB ||{{ubl|Bath (1903–1974)|Bristol (from 1974)}}
+|-
+|FC ||Oxford ||FD ||Dudley ||FE ||Lincoln
+|-
+|FF ||{{ubl|Bangor (Merionethshire until 1974|Aberystwyth until 1981) }}||FG ||{{ubl|Fife (1925–1974)|Brighton (from 1974) }}||FH ||Gloucester
+|-
+|FJ ||Exeter ||FK ||{{ubl|Worcester (1903–1974)|Dudley (1974–1996) }}||FL ||{{ubl|Soke of Peterborough (1903–1965)|Huntingdon and Peterborough (1965–1974)<ref name=index1965/>|Peterborough (from 1974)}}
+|-
+|FM ||Chester ||FN ||{{ubl|Canterbury (1903–1981)|unused after 1981 }}||FO ||{{ubl|Gloucester (Radnorshire until 1974|Hereford for Radnorshire until 1981)}}
+|-
+|FP ||{{ubl|Rutland (1903–1974)|Leicester (1974–1996)|Nottingham (for Leicester) (from 1996) }}||FR ||{{ubl|Blackpool (1904–1974)|Preston (from 1974) }}||FS ||Edinburgh (from 1931)
+|-
+|FT ||{{ubl|Tynemouth (1904–1974)|Newcastle upon Tyne (from 1974) }}||FU ||{{ubl|Lincolnshire (Lindsey) (1922–1974)|Grimsby (1974–1981)|Lincoln (for Grimsby) (from 1981) }}||FV ||{{ubl|Blackpool (1929–1974)|Preston (from 1974)}}
+|-
+|FW ||{{ubl|Lincolnshire (Lindsey) (1929–1974)|Lincoln (from 1974) }}||FX ||{{ubl|Dorset (1905–1974)|Bournemouth (from 1974) }}||FY ||{{ubl|Southport (1905–1974)|Liverpool (1974–1996)}}
+|-
+!rowspan="8" |G
+|G ||Glasgow (1903–1963) ||GA ||Glasgow ||GB ||Glasgow
+|-
+|GC ||{{ubl|London (1929–1974)|London South-West (from 1974) }}||GD ||Glasgow ||GE ||Glasgow
+|-
+|GF ||{{ubl|London (1930–1974)|London South-West (from 1974) }}||GG ||Glasgow ||GH ||{{ubl|London (1930–1974)|London South-West (from 1974)}}
+|-
+|GJ ||{{ubl|London (1930–1974)|London South-West (from 1974) }}||GK ||{{ubl|London (1930–1974)|London South-West (from 1974) }}||GL ||{{ubl|Bath (1932–1974)|Truro (from 1974)}}
+|-
+|GM ||{{ubl|Motherwell and Wishaw (1920–1974)|Reading (from 1974) }}||GN ||{{ubl|London (1931–1974)|London South-West (from 1974) }}||GO ||{{ubl|London (1931–1974)|London South-West (from 1974)}}
+|-
+|GP ||{{ubl|London (1931–1974)|London South-West (from 1974) }}||GR ||{{ubl|Sunderland (1933–1974)|Durham (1974–1981)|Newcastle upon Tyne (for Durham) (from 1981) }}||GS ||{{ubl|Perthshire (1928–1974)|Luton (from 1974)}}
+|-
+|GT ||{{ubl|London (1931–1974)|London South-West (from 1974) }}||GU ||{{ubl|London (1929–1974)|London South-East (from 1974) }}||GV ||{{ubl|West Suffolk (1930–1974)|Ipswich (from 1974)}}
+|-
+|GW ||{{ubl|London (1931–1974)|London South-East (from 1974) }}||GX ||{{ubl|London (1932–1974)|London South-East (from 1974) }}||GY ||{{ubl|London (1932–1974)|London South-East (from 1974)}}
+|-
+!rowspan="8" |H
+|H ||Middlesex (1903–1963) ||HA ||{{ubl|Smethwick (1907–1966)|Warley (1966–1974)<ref name=index1966>The Road Vehicles (Index Marks) (Amendment) Regulations 1966 (S.I. 1966/250)</ref>|Dudley (1974–1996) }}||HB ||{{ubl|Merthyr Tydfil (1908–1974)|Cardiff (from 1974)}}
+|-
+|HC ||{{ubl|Eastbourne (1911–1974)|Hastings (1974–1980)|Brighton (for Hastings) (from 1980) }}||HD ||{{ubl|Dewsbury (1913–1974)|Huddersfield (1974–1995) }}||HE ||{{ubl|Barnsley (1913–1974)|Sheffield (from 1974)}}
+|-
+|HF ||{{ubl|Wallasey (1913–1974)|Liverpool (1974–1996) }}||HG ||{{ubl|Burnley (1930–1974)|Preston (from 1974) }}||HH ||Carlisle
+|-
+|HJ ||{{ubl|Southend-on-Sea (1914–1974)|Chelmsford (from 1974) }}||HK ||{{ubl|Essex (1915–1974)|Chelmsford (from 1974) }}||HL ||{{ubl|Wakefield (1915–1974)|Sheffield (from 1974)}}
+|-
+|HM ||{{ubl|East Ham (1916–1965)|Greater London (1965–1974)<ref name=index1965/>|London Central (1974–1997) }}||HN ||{{ubl|Darlington (1921–1974)|Middlesbrough (from 1974) }}||HO ||{{ubl|Hampshire (1917–1974)|Salisbury (1974–1980)|Bournemouth (for Salisbury) (from 1980)}}
+|-
+|HP ||Coventry (from 1919) ||HR ||{{ubl|Wiltshire (1919–1974)|Swindon (1974–1997)|Bristol (for Swindon) (from 1997) }}||HS ||{{ubl|Renfrewshire (1903–1974)|Glasgow (from 1974)}}
+|-
+|HT ||Bristol (from 1920) ||HU ||Bristol (from 1924) ||HV ||{{ubl|East Ham (1930–1965)|Greater London (1965–1974)<ref name=index1965/>|London Central (1974–1997)}}
+|-
+|HW ||Bristol (from 1927) ||HX ||{{ubl|Middlesex (1930–1965)|Greater London (1965–1974)<ref name=index1965/>|London Central (1974–1997) }}||HY ||Bristol (from 1930)
+|-
+!rowspan="8" |J
+|J ||Durham (1903–1964) ||JA ||{{ubl|Stockport (1929–1974)|Manchester (from 1974) }}||JB ||{{ubl|Berkshire (1932–1974)|Reading (from 1974)}}
+|-
+|JC ||{{ubl|Caernarfonshire (1931–1974)|Bangor (from 1974) }}||JD ||{{ubl|West Ham (1929–1965)|Greater London (1965–1974)<ref name=index1965/>|London Central (1974–1997) }}||JE ||{{ubl|Isle of Ely (1933–1965)|Cambridgeshire and Isle of Ely (1965–1974)|Cambridge (1974–1980)|Peterborough (for Cambridge) (from 1980)}}
+|-
+|JF ||{{ubl|Leicester (1930–1996)|Nottingham (for Leicester) (from 1996) }}||JG ||{{ubl|Canterbury (1929–1981)|unused after 1981 }}||JH ||{{ubl|Hertfordshire (1931–1974)|Reading (from 1974)}}
+|-
+|JJ ||{{ubl|London (1932–1974)|Canterbury (1974–1981)|unused after 1981 }}||JK ||{{ubl|Eastbourne (1928–1974)|Hastings (1974–1980)|Brighton (for Hastings) (from 1980) }}||JL ||{{ubl|Lincolnshire (Holland) (1932–1974)|Boston (1974–1981)|Lincoln (for Boston) (from 1981)}}
+|-
+|JM ||{{ubl|Westmorland (1931–1974)|Reading (from 1974) }}||JN ||{{ubl|Southend-on-Sea (1930–1974)|Chelmsford (from 1974) }}||JO ||Oxford (from 1930)
+|-
+|JP ||{{ubl|Wigan (1934–1974)|Warrington (1974–1981)|Liverpool (for Warrington) (1981–1996) }}||JR ||{{ubl|Northumberland (1932–1974)|Newcastle upon Tyne (from 1974) }}||JS ||{{ubl|Ross and Cromarty (1903–1974)|Stornoway (1974–1980)|Inverness (for Stornoway) (from 1980)}}
+|-
+|JT ||{{ubl|Dorset (1933–1974)|Bournemouth (from 1974) }}||JU ||{{ubl|Leicestershire (1931–1974)|Leicester (1974–1996)|Nottingham (for Leicester) (from 1996) }}||JV ||{{ubl|Grimsby (1930–1981)|Lincoln (for Grimsby) (from 1981)}}
+|-
+|JW ||{{ubl|Wolverhampton (1931–1974)|Birmingham (from 1974) }}||JX ||{{ubl|Halifax (1932–1974)|Huddersfield (1974–1995) }}||JY ||{{ubl|Plymouth (1932–1980)|unused after 1980}}
+|-
+!rowspan="8" |K
+|K ||Liverpool (1903–1964) ||KA ||Liverpool (from 1925) ||KB ||Liverpool (from 1914)
+|-
+|KC ||Liverpool (from 1920) ||KD ||Liverpool (from 1927) ||KE ||{{ubl|Kent (1920–1974)|Maidstone (from 1974)}}
+|-
+|KF ||Liverpool (from 1930) ||KG ||Cardiff (from 1931) ||KH ||Hull (from 1925)
+|-
+|KJ ||{{ubl|Kent (1931–1974)|Maidstone (from 1974) }}||KK ||{{ubl|Kent (1922–1974)|Maidstone (from 1974) }}||KL ||{{ubl|Kent (1924–1974)|Maidstone (from 1974)}}
+|-
+|KM ||{{ubl|Kent (1925–1974)|Maidstone (from 1974) }}||KN ||{{ubl|Kent (1917–1974)|Maidstone (from 1974) }}||KO ||{{ubl|Kent (1927–1974)|Maidstone (from 1974)}}
+|-
+|KP ||{{ubl|Kent (1928–1974)|Maidstone (from 1974) }}||KR ||{{ubl|Kent (1929–1974)|Maidstone (from 1974) }}||KS ||{{ubl|Roxburghshire (1903–1974)|Selkirk (1974–1980)|Edinburgh (for Selkirk) (from 1980)}}
+|-
+|KT ||{{ubl|Kent (1913–1974)|Canterbury (1974–1981)|unused after 1981 }}||KU ||{{ubl|Bradford (1922–1974)|Sheffield (from 1974) }}||KV ||Coventry (from 1931)
+|-
+|KW ||{{ubl|Bradford (1926–1974)|Sheffield (from 1974) }}||KX ||{{ubl|Buckinghamshire (1928–1974)|Luton (from 1974) }}||KY ||{{ubl|Bradford (1931–1974)|Sheffield (from 1974)}}
+|-
+!rowspan="8" | L
+|L ||Glamorgan (1903–1964) ||LA ||{{ubl|London (1910–1974)|London North-West (from 1974) }}||LB ||{{ubl|London (1908–1974)|London North-West (from 1974)}}
+|-
+|LC ||{{ubl|London (1905–1974)|London North-West (from 1974) }}||LD ||{{ubl|London (1909–1974)|London North-West (from 1974) }}||LE ||{{ubl|London (1911–1974)|London North-West (from 1974)}}
+|-
+|LF ||{{ubl|London (1912–1974)|London North-West (from 1974) }}||LG ||{{ubl|Cheshire (1928–1974)|Chester (from 1974) }}||LH ||{{ubl|London (1913–1974)|London North-West (from 1974)}}
+|-
+|LJ ||Bournemouth (from 1929) ||LK ||{{ubl|London (1913–1974)|London North-West (from 1974) }}||LL ||{{ubl|London (1914–1974)|London North-West (from 1974)}}
+|-
+|LM ||{{ubl|London (1914–1974)|London North-West (from 1974) }}||LN ||{{ubl|London (1906–1974)|London North-West (from 1974) }}||LO ||{{ubl|London (1915–1974)|London North-West (from 1974)}}
+|-
+|LP ||{{ubl|London (1915–1974)|London North-West (from 1974) }}||LR ||{{ubl|London (1916–1974)|London North-West (from 1974) }}||LS ||{{ubl|Selkirkshire (1903–1974)|Stirling (1974–1981)|Edinburgh (for Stirling) (from 1981)}}
+|-
+|LT ||{{ubl|London (1918–1974)|London North-West (from 1974) }}||LU ||{{ubl|London (1919–1974)|London North-West (from 1974) }}||LV ||Liverpool (from 1932)
+|-
+|LW ||{{ubl|London (1919–1974)|London North-West (from 1974) }}||LX ||{{ubl|London (1919–1974)|London North-West (from 1974) }}||LY ||{{ubl|London (1919–1974)|London North-West (from 1974)}}
+|-
+!rowspan="8" |M
+|M ||Cheshire (1903–1963) ||MA ||{{ubl|Cheshire (1920–1974)|Chester (from 1974) }}||MB ||{{ubl|Cheshire (1922–1974)|Chester (from 1974)}}
+|-
+|MC ||{{ubl|Middlesex (1917–1965)|Greater London (1965–1974)<ref name=index1965/>|London North-East (1974–1997) }}||MD ||{{ubl|Middlesex (1920–1965)|Greater London (1965–1974)<ref name=index1965/>|London North-East (1974–1997) }}||ME ||{{ubl|Middlesex (1921–1965)|Greater London (1965–1974)<ref name=index1965/>|London North-East (1974–1997)}}
+|-
+|MF ||{{ubl|Middlesex (1923–1965)|Greater London (1965–1974)<ref name=index1965/>|London North-East (1974–1997) }}||MG ||{{ubl|Middlesex (1930–1965)|Greater London (1965–1974)<ref name=index1965/>|London North-East (1974–1997) }}||MH ||{{ubl|Middlesex (1924–1965)|Greater London (1965–1974)<ref name=index1965/>|London North-East (1974–1997)}}
+|-
+|MJ ||{{ubl|Bedfordshire (1932–1974)|Luton (from 1974) }}||MK ||{{ubl|Middlesex (1925–1965)|Greater London (1965–1974)<ref name=index1965/>|London North-East (1974–1997) }}||ML ||{{ubl|Middlesex (1926–1965)|Greater London (1965–1974)<ref name=index1965/>|London North-East (1974–1997)}}
+|-
+|MM ||{{ubl|Middlesex (1926–1965)|Greater London (1965–1974)<ref name=index1965/>|London North-East (1974–1997) }}||MN ||Isle of Man ||MO ||{{ubl|Berkshire (1922–1974)|Reading (from 1974)}}
+|-
+|MP ||{{ubl|Middlesex (1927–1965)|Greater London (1965–1974)<ref name=index1965/>|London North-East (1974–1997) }}||MR ||{{ubl|Wiltshire (1924–1974)|Swindon (1974–1997)|Bristol (for Swindon) (from 1997) }}||MS ||{{ubl|Stirlingshire (1903–1974)|Stirling (1974–1981)|Edinburgh (for Stirling) (from 1981)}}
+|-
+|MT ||{{ubl|Middlesex (1928–1965)|Greater London (1965–1974)<ref name=index1965/>|London North-East (1974–1997) }}||MU ||{{ubl|Middlesex (1929–1965)|Greater London (1965–1974)<ref name=index1965/>|London North-East (1974–1997) }}||MV ||{{ubl|Middlesex (1931–1965)|Greater London (1965–1974)<ref name=index1965/>|London South-East (from 1974)}}
+|-
+|MW ||{{ubl|Wiltshire (1927–1974)|Swindon (1974–1997)|Bristol (for Swindon) (from 1997) }}||MX ||{{ubl|Middlesex (1912–1965)|Greater London (1965–1974)<ref name=index1965/>|London South-East (from 1974) }}||MY ||{{ubl|Middlesex (1929–1965)|London (1965–1974)|London South-East (from 1974)}}
+|-
+!rowspan="8" |N
+|N ||Manchester (1903–1964) ||NA ||Manchester (from 1913) ||NB ||Manchester (from 1919)
+|-
+|NC ||Manchester (from 1920) ||ND ||Manchester (from 1923) ||NE ||Manchester (from 1925)
+|-
+|NF ||Manchester (from 1926) ||NG ||{{ubl|Norfolk (1930–1974)|Norwich (from 1974) }}||NH ||Northampton (from 1905)
+|-
+|NJ ||{{ubl|East Sussex (1932–1974)|Brighton (from 1974) }}||NK ||{{ubl|Hertfordshire (1921–1974)|Luton (from 1974) }}||NL ||{{ubl|Northumberland (1921–1974)|Newcastle upon Tyne (from 1974)}}
+|-
+|NM ||{{ubl|Bedfordshire (1920–1974)|Luton (from 1974) }}||NN ||{{ubl|Nottinghamshire (1921–1974)|Nottingham (from 1974) }}||NO ||{{ubl|Essex (1921–1974)|Chelmsford (from 1974)}}
+|-
+|NP ||{{ubl|Worcestershire (1921–1974)|Worcester (from 1974) }}||NR ||{{ubl|Leicestershire (1921–1974)|Leicester (1974–1996)|Nottingham (for Leicester) (from 1996) }}||NS ||{{ubl|Sutherland (1903–1974)|Glasgow (from 1974)}}
+|-
+|NT ||{{ubl|Shropshire (1921–1974)|Shrewsbury (from 1974) }}||NU ||{{ubl|Derbyshire (1923–1974)|Nottingham (from 1974) }}||NV ||{{ubl|Northamptonshire (1931–1974)|Northampton (from 1974)}}
+|-
+|NW ||Leeds (from 1921) ||NX ||{{ubl|Warwickshire (1921–1974)|Dudley (1974–1996) }}||NY ||{{ubl|Glamorgan (1921–1974)|Cardiff (from 1974)}}
+|-
+!rowspan="8" |O
+|O ||Birmingham (1903–1964) ||OA ||Birmingham (from 1913) ||OB ||Birmingham (from 1915)
+|-
+|OC ||Birmingham (from 1933) ||OD ||{{ubl|Devon (1931–1974)|Exeter (from 1974) }}||OE ||Birmingham (from 1919)
+|-
+|OF ||Birmingham (from 1929) ||OG ||Birmingham (from 1930) ||OH ||Birmingham (from 1920)
+|-
+|OJ ||Birmingham (from 1932) ||OK ||Birmingham (from 1922) ||OL ||Birmingham (from 1923)
+|-
+|OM ||Birmingham (from 1924) ||ON ||Birmingham (from 1925) ||OO ||{{ubl|Essex (1961–1974)|Chelmsford (from 1974)}}
+|-
+|OP ||Birmingham (from 1926) ||OR ||{{ubl|Hampshire (1922–1974)|Portsmouth (from 1974) }}||OS ||{{ubl|Wigtownshire (1903–1974)|Stranraer (1974–1981)|Glasgow (for Stranraer) (from 1981)}}
+|-
+|OT ||{{ubl|Hampshire (1926–1974)|Portsmouth (from 1974) }}||OU ||{{ubl|Hampshire (1928–1974)|Bristol (from 1974) }}||OV ||Birmingham (from 1931)
+|-
+|OW ||{{ubl|Southampton (1931–1974)|Portsmouth (from 1974) }}||OX ||Birmingham (from 1927) ||OY ||{{ubl|Croydon (1930–1965)|Greater London (1965–1974)<ref name=index1965/>|London North-West (from 1974)}}
+|-
+!rowspan="8" |P
+|P ||Surrey (1903–1963) ||PA ||{{ubl|Surrey (1913–1974)|Guildford (1974–1997)|Reading (for Guildford) (from 1997) }}||PB ||{{ubl|Surrey (1919–1974)|Guildford (1974–1997)|Reading (for Guildford) (from 1997)}}
+|-
+|PC ||{{ubl|Surrey (1921–1974)|Guildford (1974–1997)|Reading (for Guildford) (from 1997) }}||PD ||{{ubl|Surrey (1923–1974)|Guildford (1974–1997)|Reading (for Guildford) (from 1997) }}||PE ||{{ubl|Surrey (1924–1974)|Guildford (1974–1997)|Reading (for Guildford) (from 1997)}}
+|-
+|PF ||{{ubl|Surrey (1926–1974)|Guildford (1974–1997)|Reading (for Guildford) (from 1997) }}||PG ||{{ubl|Surrey (1929–1974)|Guildford (1974–1997)|Reading (for Guildford) (from 1997) }}||PH ||{{ubl|Surrey (1927–1974)|Guildford (1974–1997)|Reading (for Guildford) (from 1997)}}
+|-
+|PJ ||{{ubl|Surrey (1931–1974)|Guildford (1974–1997)|Reading (for Guildford) (from 1997) }}||PK ||{{ubl|Surrey (1928–1974)|Guildford (1974–1997)|Reading (for Guildford) (from 1997) }}||PL ||{{ubl|Surrey (1930–1974)|Guildford (1974–1997)|Reading (for Guildford) (from 1997)}}
+|-
+|PM ||{{ubl|East Sussex (1922–1974)|Guildford (1974–1997)|Reading (for Guildford) (from 1997) }}||PN ||{{ubl|East Sussex (1927–1974)|Brighton (from 1974) }}||PO ||{{ubl|West Sussex (1929–1974)|Portsmouth (from 1974)|(GPO formerly reserved for General Post Office vehicles)}}
+|-
+|PP ||{{ubl|Buckinghamshire (1923–1974)|Luton (from 1974) }}||PR ||{{ubl|Dorset (1923–1974)|Bournemouth (from 1974) }}||PS ||{{ubl|Shetland (1903–1974)|Lerwick (1974–1980)|Aberdeen (for Lerwick) (from 1980)}}
+|-
+|PT ||{{ubl|Durham (1922–1981)|Newcastle upon Tyne (for Durham) (from 1981) }}||PU ||{{ubl|Essex (1923–1974)|Chelmsford (from 1974) }}||PV ||Ipswich (from 1932)
+|-
+|PW ||{{ubl|Norfolk (1923–1974)|Norwich (from 1974) }}||PX ||{{ubl|West Sussex (1923–1974)|Portsmouth (from 1974) }}||PY ||{{ubl|Yorkshire (North Riding) (1923–1974)|Middlesbrough (from 1974)}}
+|-
+!rowspan="8" |R
+|R ||Derbyshire (1903–1964) ||RA ||{{ubl|Derbyshire (1926–1974)|Nottingham (from 1974) }}||RB ||{{ubl|Derbyshire (1929–1974)|Nottingham (from 1974)}}
+|-
+|RC ||{{ubl|Derby (1931–1974)|Nottingham (from 1974) }}||RD ||Reading (from 1928) ||RE ||{{ubl|Staffordshire (1921–1974)|Stoke-on-Trent (1974–1997)|Nottingham (for Stoke-on-Trent) (from 1997)}}
+|-
+|RF ||{{ubl|Staffordshire (1924–1974)|Stoke-on-Trent (1974–1997)|Nottingham (for Stoke-on-Trent) (from 1997) }}||RG ||{{ubl|Aberdeen (1928–1974)|Newcastle upon Tyne (from 1974) }}||RH ||Hull (from 1930)
+|-
+|RJ ||{{ubl|Salford (1931–1974)|Manchester (from 1974) }}||RK ||{{ubl|Croydon (1922–1965)|Greater London (1965–1974)<ref name=index1965/>|London North-West (from 1974) }}||RL ||{{ubl|Cornwall (1924–1974)|Truro (from 1974)}}
+|-
+|RM ||{{ubl|Cumberland (1924–1974)|Carlisle (from 1974) }}||RN ||Preston (from 1928) ||RO ||{{ubl|Hertfordshire (1925–1974)|Luton (from 1974)}}
+|-
+|RP ||{{ubl|Northamptonshire (1924–1974)|Northampton (from 1974) }}||RR ||{{ubl|Nottinghamshire (1925–1974)|Nottingham (from 1974) }}||RS ||Aberdeen
+|-
+|RT ||{{ubl|East Suffolk (1925–1974)|Ipswich (from 1974) }}||RU ||Bournemouth (from 1924) ||RV ||Portsmouth (from 1931)
+|-
+|RW ||Coventry (from 1924) ||RX ||{{ubl|Berkshire (1927–1974)|Reading (from 1974) }}||RY ||{{ubl|Leicester (1925–1996)|Nottingham (for Leicester) (from 1996)}}
+|-
+!rowspan="8" |S
+|S ||Edinburgh (1903–1964) ||SA ||{{ubl|Aberdeenshire (1903–1974)|Aberdeen (from 1974) }}||SB ||{{ubl|Argyll (1903–1974)|Oban (1974–1980)|Glasgow (for Oban) (from 1981)}}
+|-
+|SC ||Edinburgh (from 1927) ||SD ||{{ubl|Ayrshire (1903–1974)|Ayr (1974–1981)|Glasgow (for Ayr) (from 1981) }}||SE ||{{ubl|Banffshire (1903–1974)|Keith (1974–1981)|Aberdeen (for Keith) (from 1981)}}
+|-
+|SF ||Edinburgh (from 1924) ||SG ||Edinburgh (from 1920) ||SH ||{{ubl|Berwickshire (1903–1974)|Selkirk (1974–1980)|Edinburgh (for Selkirk) (from 1980)}}
+|-
+|SJ ||{{ubl|Bute (1903–1974)|Ayr (1974–1981)|Glasgow (for Ayr) (from 1981) }}||SK ||{{ubl|Caithness (1903–1974)|Wick (1974–1981)|Inverness (for Wick) (from 1981) }}||SL ||{{ubl|Clackmannanshire (1903–1974)|Dundee (from 1974)}}
+|-
+|SM ||{{ubl|Dumfriesshire (1903–1974)|Dumfries (1974–1981)|Carlisle (for Dumfries) (from 1981) }}||SN ||{{ubl|Dunbartonshire (1903–1974)|Dundee (from 1974) }}||SO ||{{ubl|Moray (1903–1974)|Aberdeen (from 1974)}}
+|-
+|SP ||{{ubl|Fife (1903–1974)|Dundee (from 1974) }}||SR ||{{ubl|Angus (1903–1974)|Dundee (from 1974) }}||SS ||{{ubl|East Lothian (1903–1974)|Aberdeen (from 1974)}}
+|-
+|ST ||{{ubl|Inverness-shire (1903–1974)|Inverness (from 1974) }}||SU ||{{ubl|Kincardineshire (1903–1974)|Glasgow (from 1974) }}||SV ||{{ubl|Kinross-shire (1903–1974)|unused after 1974}}
+|-
+|SW ||{{ubl|Kirkcudbrightshire (1903–1974)|Dumfries (1974–1981)|Carlisle (for Dumfries) (from 1981) }}||SX ||{{ubl|West Lothian (1903–1974)|Edinburgh (from 1974) }}||SY ||{{ubl|Midlothian (1903–1974)|unused after 1974}}
+|-
+!rowspan="8" |T
+|T ||Devon (1903–1964) ||TA ||{{ubl|Devon (1920–1974)|Exeter (from 1974) }}||TB ||{{ubl|Lancashire (1919–1974)|Warrington (1974–1981)|Liverpool (for Warrington) (1981–1996)}}
+|-
+|TC ||{{ubl|Lancashire (1922–1974)|Bristol (from 1974) }}||TD ||{{ubl|Lancashire (1924–1974)|Bolton (1974–1981)|Manchester (for Bolton) (from 1981) }}||TE ||{{ubl|Lancashire (1927–1974)|Bolton (1974–1981)|Manchester (for Bolton) (from 1981)}}
+|-
+|TF ||{{ubl|Lancashire (1929–1974)|Reading (from 1974) }}||TG ||{{ubl|Glamorgan (1930–1974)|Cardiff (from 1974) }}||TH ||{{ubl|Carmarthenshire (1929–1974)|Swansea (from 1974)}}
+|-
+|TJ ||{{ubl|Lancashire (1932–1974)|Liverpool (1974–1996) }}||TK ||{{ubl|Dorset (1927–1974)|Plymouth (1974–1980)|unused after 1980 }}||TL ||{{ubl|Lincolnshire (Kesteven) (1928–1974)|Lincoln (from 1974)}}
+|-
+|TM ||{{ubl|Bedfordshire (1927–1974)|Luton (from 1974) }}||TN ||Newcastle upon Tyne (from 1925) ||TO ||Nottingham (from 1924)
+|-
+|TP ||Portsmouth (from 1924) ||TR ||{{ubl|Southampton (1925–1974)|Portsmouth (from 1974) }}||TS ||Dundee
+|-
+|TT ||{{ubl|Devon (1924–1974)|Exeter (from 1974) }}||TU ||{{ubl|Cheshire (1926–1974)|Chester (from 1974) }}||TV ||Nottingham (from 1929)
+|-
+|TW ||{{ubl|Essex (1925–1974)|Chelmsford (from 1974) }}||TX ||{{ubl|Glamorgan (1926–1974)|Cardiff (from 1974) }}||TY ||{{ubl|Northumberland (1925–1974)|Newcastle upon Tyne (from 1974)}}
+|-
+!rowspan="8" |U
+|U ||Leeds (1903–1964) ||UA ||Leeds (from 1927) ||UB ||Leeds (from 1929)
+|-
+|UC ||{{ubl|London (1928–1974)|London Central (1974–1997) }}||UD ||{{ubl|Oxfordshire (1926–1974)|Oxford (from 1974) }}||UE ||{{ubl|Warwickshire (1925–1974)|Dudley (1974–1996)}}
+|-
+|UF ||Brighton (from 1925) ||UG ||Leeds (from 1932) ||UH ||Cardiff (from 1925)
+|-
+|UJ ||{{ubl|Shropshire (1932–1974)|Shrewsbury (from 1974) }}||UK ||{{ubl|Wolverhampton (1925–1974)|Birmingham (from 1974) }}||UL ||{{ubl|London (1929–1974)|London Central (1974–1997)}}
+|-
+|UM ||Leeds (from 1925) ||UN ||{{ubl|Denbighshire (1927–1974)|Barnstaple (1974–1981)|Exeter (for Barnstaple) (1981) }}||UO ||{{ubl|Devon (1926–1974)|Barnstaple (1974–1981)|Exeter (for Barnstaple) (1981)}}
+|-
+|UP ||{{ubl|Durham (1927–1981)|Newcastle upon Tyne (for Durham) (from 1981) }}||UR ||{{ubl|Hertfordshire (1928–1974)|Luton (from 1974) }}||US ||{{ubl|Govan (1903–1912)|Glasgow (from 1933)}}
+|-
+|UT ||{{ubl|Leicestershire (1927–1974)|Leicester (1974–1996)|Nottingham (for Leicester) (from 1996) }}||UU ||{{ubl|London (1929–1974)|London Central (1974–1997) }}||UV ||{{ubl|London (1929–1974)|London Central (1974–1997)}}
+|-
+|UW ||{{ubl|London (1929–1974)|London Central (1974–1997) }}||UX ||{{ubl|Shropshire (1927–1974)|Shrewsbury (from 1974) }}||UY ||{{ubl|Worcestershire (1927–1974)|Worcester (from 1974)}}
+|-
+!rowspan="8" |V
+|V ||Lanarkshire (1903–1964) ||VA ||{{ubl|Lanarkshire (1922–1974)|Cambridge (1974–1980)|Peterborough (for Cambridge) (from 1980) }}||VB ||{{ubl|Croydon (1927–1965)|Greater London (1965–1974)<ref name=index1965/>|Canterbury (1974–1981)|unused after 1981}}
+|-
+|VC ||Coventry (from 1929) ||VD ||{{ubl|Lanarkshire (1930–1974)|Luton (1974–1977)|unused after 1977 }}||VE ||{{ubl|Cambridgeshire (1928–1965)|Cambridgeshire and Isle of Ely (1965–1974)<ref name=index1965/>|Cambridge (1974–1980)|Peterborough (for Cambridge) (from 1980)}}
+|-
+|VF ||{{ubl|Norfolk (1927–1974)|Norwich (from 1974) }}||VG ||Norwich (from 1927) ||VH ||Huddersfield (1927–1995)
+|-
+|VJ ||{{ubl|Herefordshire (1927–1974)|Hereford (1974–1981)|Gloucester (for Hereford) (1981–1997) }}||VK ||Newcastle upon Tyne (from 1929) ||VL ||Lincoln (from 1928)
+|-
+|VM ||Manchester (from 1928) ||VN ||{{ubl|Yorkshire (North Riding) (1929–1974)|Middlesbrough (from 1974) }}||VO ||{{ubl|Nottinghamshire (1928–1974)|Nottingham (from 1974)}}
+|-
+|VP ||Birmingham (from 1928) ||VR ||Manchester (from 1929) ||VS ||{{ubl|Greenock (1903–1974)|Luton (from 1974)}}
+|-
+|VT ||{{ubl|Stoke-on-Trent (1927–1997)|Nottingham (for Stoke-on-Trent) (from 1997)  }}||VU ||Manchester (from 1930) ||VV ||Northampton (from 1930)
+|-
+|VW ||{{ubl|Essex (1927–1974)|Chelmsford (from 1974) }}||VX ||{{ubl|Essex (1929–1974)|Chelmsford (from 1974) }}||VY ||{{ubl|York (1928–1981)|Leeds (for York) (from 1981)}}
+|-
+!rowspan="8" |W
+|W ||Sheffield (1903–1964) ||WA ||Sheffield (from 1919) ||WB ||Sheffield (from 1924)
+|-
+|WC ||{{ubl|Essex (1962–1974)|Chelmsford (from 1974) }}||WD ||{{ubl|Warwickshire (1930–1974)|Dudley (1974–1996) }}||WE ||Sheffield (from 1927)
+|-
+|WF ||{{ubl|Yorkshire (East Riding) (1926–1974)|Sheffield (from 1974) }}||WG ||{{ubl|Stirlingshire (1930–1974)|Sheffield (from 1974) }}||WH ||{{ubl|Bolton (1927–1981)|Manchester (for Bolton) (from 1981)}}
+|-
+|WJ ||Sheffield (from 1930) ||WK ||Coventry (from 1926) ||WL ||Oxford (from 1925)
+|-
+|WM ||{{ubl|Southport (1927–1974)|Liverpool (1974–1996) }}||WN ||Swansea (from 1927) ||WO ||{{ubl|Monmouthshire (1927–1974)|Cardiff (from 1974)}}
+|-
+|WP ||{{ubl|Worcestershire (1931–1974)|Worcester (from 1974) }}||WR ||{{ubl|Yorkshire (West Riding) (1912–1974)|Leeds (from 1974) }}||WS ||{{ubl|Leith (1903–1920)|Edinburgh (1934–1974)|Bristol (from 1974)}}
+|-
+|WT ||{{ubl|Yorkshire (West Riding) (1923–1974)|Leeds (from 1974) }}||WU ||{{ubl|Yorkshire (West Riding) (1925–1974)|Leeds (from 1974) }}||WV ||{{ubl|Wiltshire (1931–1974)|Brighton (from 1974)}}
+|-
+|WW ||{{ubl|Yorkshire (West Riding) (1927–1974)|Leeds (from 1974) }}||WX ||{{ubl|Yorkshire (West Riding) (1929–1974)|Leeds (from 1974) }}||WY ||{{ubl|Yorkshire (West Riding) (1921–1974)|Leeds (from 1974)}}
+|-
+!rowspan="8" |X
+|X ||Northumberland (1903–1963) ||XA ||{{ubl|London (1920–1964)|Kirkcaldy (1963–1974)|unused after 1974 }}||XB ||{{ubl|London (1920–1965)|Coatbridge (1965–1974)<ref name=index1965>The Road Vehicles (Index Marks) (Amendment) Regulations 1965 (S. I. 1965/237)</ref>|unused after 1974}}
+|-
+|XC ||{{ubl|London (1920–1964)|Solihull (1964–1974)|unused after 1974 }}||XD ||{{ubl|London (1920–1964)|Luton (1964–1974)|unused after 1974 }}||XE ||{{ubl|London (1920–1964)|Luton (1964–1974)|unused after 1974}}
+|-
+|XF ||{{ubl|London (1921–1964)|Torbay (1968–1974)<ref name=indexmarks1968/>|unused after 1974 }}||XG ||{{ubl|Middlesbrough (1929–1968)|Teesside (1968–1974)<ref name="indexmarks1968">The Road Vehicles (Index Marks) (Amendment) Regulations 1968 (S. I. 1968/355)</ref>|unused after 1974 }}||XH ||{{ubl|London (1921–1964)|unused after 1964}}
+|-
+|XJ ||{{ubl|Manchester (1932–1974)|unused after 1974 }}||XK ||{{ubl|London (1922–1964)|unused after 1964 }}||XL ||{{ubl|London (1922–1964)|unused after 1964}}
+|-
+|XM ||{{ubl|London (1922–1964)|unused after 1964 }}||XN ||{{ubl|London (1923–1964)|unused after 1964 }}||XO ||{{ubl|London (1923–1964)|unused after 1964}}
+|-
+|XP ||{{ubl|London (1923–1964)|later temporary plates for vehicles being exported to Europe }}||XR ||{{ubl|London (1924–1964)|unused after 1964 }}||XS ||{{ubl|Paisley (1903–1974)|unused after 1974}}
+|-
+|XT ||{{ubl|London (1924–1964)|unused after 1964 }}||XU ||{{ubl|London (1924–1964)|unused after 1964 }}||XV ||{{ubl|London (1928–1964)|unused after 1964}}
+|-
+|XW ||{{ubl|London (1924–1964)|unused after 1964 }}||XX ||{{ubl|London (1925–1964)|unused after 1964 }}||XY ||{{ubl|London (1925–1964)|unused after 1964}}
+|-
+!rowspan="8" |Y
+|Y ||Somerset (1903–1964) ||YA ||{{ubl|Somerset (1921–1974)|Taunton (1974–1997)|Exeter (for Taunton) (from 1997) }}||YB ||{{ubl| Somerset (1924–1974)|Taunton (1974–1997)|Exeter (for Taunton) (from 1997)}}
+|-
+|YC ||{{ubl|Somerset (1927–1974)|Taunton (1974–1997)|Exeter (for Taunton) (from 1997) }}||YD ||{{ubl|Somerset (1930–1974)|Taunton (1974–1997)|Exeter (for Taunton) (from 1997) }}||YE ||{{ubl|London (1927–1974)|London Central (1974–1997)}}
+|-
+|YF ||{{ubl|London (1927–1974)|London Central (1974–1997) }}||YG ||{{ubl|Yorkshire (West Riding) (1932–1974)|Leeds (from 1974) }}||YH ||{{ubl|London (1927–1974)|London Central (1974–1997)}}
+|-
+|YJ ||{{ubl|Dundee (1932–1974)|Brighton (from 1974) }}||YK ||{{ubl|London (1925–1974)|London Central (1974–1997) }}||YL ||{{ubl|London (1925–1974)|London Central (1974–1997)}}
+|-
+|YM ||{{ubl|London (1925–1974)|London Central (1974–1997) }}||YN ||{{ubl|London (1926–1974)|London Central (1974–1997) }}||YO ||{{ubl|London (1926–1974)|London Central (1974–1997)}}
+|-
+|YP ||{{ubl|London (1926–1974)|London Central (1974–1997) }}||YR ||{{ubl|London (1926–1974)|London Central (1974–1997) }}||YS ||{{ubl|Partick (1903–1912)|Glasgow (from 1935)}}
+|-
+|YT ||{{ubl|London (1927–1974)|London Central (1974–1997) }}||YU ||{{ubl|London (1927–1974)|London Central (1974–1997) }}||YV ||{{ubl|London (1928–1974)|London Central (1974–1997)}}
+|-
+|YW ||{{ubl|London (1928–1974)|London Central (1974–1997) }}||YX ||{{ubl|London (1928–1974)|London Central (1974–1997) }}||YY ||{{ubl|London (1932–1974)|London Central (1974–1997)}}
+|}

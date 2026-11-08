@@ -1,0 +1,372 @@
+{{Short description|none}} <!-- This short description is INTENTIONALLY "none" - please see WP:SDNONE before you consider changing it! -->
+{{Use dmy dates|date=February 2021}}
+{{Use British English|date=February 2021}}
+{{Infobox vehicle registration plate
+| image = Regular NI Front Plate (No Band).png
+| issuer = [[Driver & Vehicle Agency|DVA]] (until 2014)<br/>
+[[DVLA]] (2014 - present)
+| image2 = Northern Ireland Rear Registration Plate (Blank identification band).png
+| name = Northern Ireland
+| countrycode = UK
+| country = United Kingdom (Northern Ireland)
+| start_date = 1 January 1904
+| manufacturer = 
+| designer = 
+| nickname = 
+| current_start_date = January 1966
+| serial_format = AAA 1234
+| material = 
+| size = {{convert|520|x|111|mm|in|abbr=on|disp=br}}
+| slogan = 
+| slogan_label = 
+| caption2 = NI regular front (top) and rear (bottom) number plates.
+The national identifier is optional, and the distinguishing code for the United Kingdom, including Northern Ireland is "UK".<ref name="auto">{{cite web |url=http://www.unece.org/fileadmin/DAM/trans/conventn/Distsigns.pdf |website=[[United Nations Economic Commission for Europe]] (UNECE) |title=Distinguishing signs used on vehicles in international traffic notified to the Secretary-General of the United Nations in accordance with the 1968 Convention on Road Traffic (article 45 (4)) and the 1949 Convention on Road Traffic (annex 4) |url-status=live |archive-url=https://web.archive.org/web/20210430214615/https://unece.org/fileadmin/DAM/trans/conventn/Distsigns.pdf |archive-date=30 April 2021}}</ref> Number plates including the code are valid in countries party to the [[Vienna Convention on Road Traffic]] if displayed on its own or together with the [[Flag of the United Kingdom|Union Jack]]. The "UK" code replaced the previous "GB" code from 28 September 2021.<ref>{{Cite web|url=https://treaties.un.org/doc/Publication/CN/2021/CN.207.2021-Eng.pdf|title=Convention on Road Traffic Vienna, 8 November 1968: UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND: NOTIFICATION UNDER ARTICLE 45 (4)}}</ref>
+}}
+'''Vehicle registration plates in Northern Ireland''' use a modified version of the British [[Vehicle registration plates of the United Kingdom|national registration plate system]] that was initiated for the whole of the [[United Kingdom of Great Britain and Ireland]] in 1903. Originally, all counties in the UK were allocated two identification letters. At that time, the whole of the island of  Ireland was in the UK, and the letters I and Z were reserved for the Irish counties. The 'I' series was used first, but by the time it came to using the 'Z' series in 1926, the [[Irish Free State]] had already come into existence, and so it was agreed that the Northern Ireland would use the AZ – YZ series, while the Free State would use the ZA – ZZ series. In 1987, the Republic of Ireland broke away from the system altogether. As of 2002 there were reportedly 794,477 recorded registration plates in [[Northern Ireland]], compared to only 50 for the island as a whole when the format was first introduced in 1903.<ref>{{cite news|url = https://www.belfasttelegraph.co.uk/news/northern-ireland/northern-ireland-vehicle-number-plates-could-be-set-for-biggest-makeover-in-45-years-38190003.html | publisher = Belfast Telegraph | newspaper = Belfasttelegraph | title = Northern Ireland vehicle number plates could be set for biggest makeover in 45 years | date = 7 June 2019 | access-date = 21 February 2020 }}</ref>
+
+The full list of codes used in Northern Ireland appears below.
+
+==Format==
+[[File:Northern Ireland in the UK and Europe.svg|thumb|There are two number plate systems within the UK: one for Northern Ireland and another for Great Britain]]
+[[File:Northern Ireland car registration plate labels-UK.svg|right|400x400px|Diagram of Northern Ireland number plate, descriptions below]]
+[[File:UK (NI) Front Registration Plate.png|400x400px|This is the current NI front plate with the optional "UK" badge.]]
+
+As in Great Britain, each code originally ran from 1 to 9999, and when one was completed, another was allocated. All possible codes had been allocated by 1957, following which reversed sequences were introduced, the first county to do so being [[County Antrim|Antrim]] in January 1958 with <code>1&nbsp;IA</code>. These reversed sequences were completed quickly, leading to the introduction of the current "<code>AXX&nbsp;1234</code>" format in January 1966, where "<code>XX</code>" is the county code and "<code>A</code>" is a serial letter. This format allowed capacity to be increased. Each county adopted it once they had completed their reversed sequences, the last one to do so being [[County Londonderry]] in October 1973 with <code>AIW&nbsp;1</code>. From November 1985, the first 100 numbers of each series were withheld for use as cherished registrations. From April 1989, the numbers 101-999 were also withheld in this way. Even multiples of 1000 and 1111 ("four-of-a-kind") are deemed cherished by the DVLA and thus withheld. Each series ends at 9998 and follows on to the next letter/number combination in the series.{{fact|date=September 2021}}
+[[File:NORTHERN IRELAND, BELFAST 2000's -YELLOW REAR USE VEHICLE LICENSE PLATE - Flickr - woody1778a.jpg|thumb|Northern Ireland plate. This particular County Down plate, which dates from the last century, uses an old-style font.]]
+
+=== International vehicle registration code on the number plates ===
+The distinguishing code for the United Kingdom, including Northern Ireland is "'''UK'''".<ref name="auto"/> Prior to 28 September 2021, "'''GB'''" was used.<ref name=":0">{{Cite web|title=Convention on Road Traffic Vienna, 8 November 1968: UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND: NOTIFICATION UNDER ARTICLE 45 (4)|url=https://treaties.un.org/doc/Publication/CN/2021/CN.207.2021-Eng.pdf}}</ref> Number plates featuring other codes, such as "NI" or "IRL" (the distinguishing code for Ireland) are unofficial.{{fact|date=September 2021}} From October 2021 if an owner of a vehicle wishes to avoid attaching a separate black on white “UK” sticker, it is necessary for the number plates to display “UK” on the left side. If the vehicle is driven in a country not a party to the Vienna Convention, a separate sign (black on white “UK” sticker) also has to be displayed at the rear of the vehicle.<ref>{{Cite web|title=NOTICE ON TRAVELLING BETWEEN THE EU AND THE UNITED KINGDOM FOLLOWING WITHDRAWAL OF THE UNITED KINGDOM FROM THE EU|url=https://ec.europa.eu/info/sites/info/files/travelling_en_2.pdf#page10}}</ref> Of the EU countries, a separate identifier is only needed when travelling in Cyprus, Malta, and Spain, as they are not party to the convention.<ref group="notes">"Ireland is not a party of the Vienna Convention but no separate 'GB' sticker is required." [https://www.gov.uk/guidance/driving-in-the-eu#gb-stickers-and-number-plates] Accessed in June 2021</ref>
+
+While motorists with vehicles registered in [[Great Britain]] are permitted by the DVLA to use number plates carrying Euro-style bands with UK national flags and country codes (such as ENG, England or SCO), this is not possible in Northern Ireland.<ref name="dvlni2001">{{cite web|author=DVLNI|date=29 January 2009|title=V796(NI): Display of Registration Marks for Motor Vehicles|url=http://www.dvlni.gov.uk/vehicles/vehicle_forms/v796.pdf|url-status=dead|archive-url=https://web.archive.org/web/20100217155358/http://www.dvlni.gov.uk/vehicles/vehicle_forms/v796.pdf|archive-date=17 February 2010|access-date=10 December 2009|df=dmy-all}}</ref><ref>{{cite web|date=7 September 2019|title=FactCheck: Will Northern Ireland drivers have to display GB stickers on their vehicles if driving in Ireland?|url=https://www.thejournal.ie/factcheck-brexit-gb-stickers-ireland-4793337-Sep2019/|access-date=21 February 2020|website=thejournal.ie|publisher=The Journal Media}}</ref> The Road Vehicles (Display of Registration Marks) (Amendment) Regulations 2009 state that ''"Paragraph (4) does not apply—(...) (b)if the relevant vehicle is recorded in the part of the register relating to Northern Ireland."'' Paragraph four reads ''"Subject to paragraphs (5) to (8), there may be displayed on a plate or other device an arrangement of letters corresponding with one of the sub-paragraphs of paragraph (9) and an emblem corresponding with one of the sub-paragraphs of paragraph (10)".''
+{{multiple image
+| footer = The current "UK" band front (left) and rear (right)
+| width1 = 80
+| image1 = UK_Blank_Identifier_Section_(Front).png
+| alt1 = 
+| caption1 = 
+| width2 = 80
+| image2 = UK Blank Rear Identifier Section.png
+| alt2 = 
+| caption2 = 
+}}
+==== European Union symbol ====
+When the UK was a member state of the European Union, it was possible to choose to display number plates conforming to the [[Vehicle registration plates of Europe#European Union|common EU format]] introduced by Council Regulation (EC) No 2411/98, with a blue strip on the left side of the plate with the [[Flag of Europe|European Union symbol]] (circle of stars) above the [[international vehicle registration code]] of the member state (GB).<ref name="euro98directive2">{{cite web|author=European Union|date=3 November 1998|title=Council Regulation (EC) No 2411/98 of 3 November 1998 on the recognition in intra-Community traffic of the distinguishing sign of the Member State in which motor vehicles and their trailers are registered|url=http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31998R2411:EN:HTML|access-date=22 October 2007}}</ref> This format can not be issued after the transition period ended.<ref>{{Cite web|url=https://www.legislation.gov.uk/uksi/2020/1363/made|title=The Road Vehicles (Display of Registration Marks) (Amendment) (EU Exit) (No. 2) Regulations 2020}}</ref> With Northern Ireland no longer being a part of the EU, the plates with the EU symbol are now no longer issued.{{fact|date=September 2021}}
+
+EU member states that require foreign vehicles to display a distinguishing sign of the country of origin are obliged by Article 3 of EU Regulation No. 2411/98 to accept this standard design as a distinguishing sign when displayed on a vehicle registered in another member state, making a separate sign unnecessary for vehicles registered in the EU.{{fact|date=September 2021}}
+
+After [[Brexit]], other EU countries are no longer required to accept UK "Europlates", as the regulation only requires member states to accept the standard design as a distinguishing sign when displayed on a vehicle registered in another member state. After this, Euro-plates must be replaced by a number plate that features the UK code (GB before 28 September 2021) in order to be valid as a national identifier.<ref>{{Cite web|title=Driving in Europe after Brexit: how leaving the EU will affect driving licences|url=https://inews.co.uk/inews-lifestyle/cars/driving-in-europe-after-brexit-how-leaving-the-eu-will-affect-uk-driving-licences-explained-1373249|access-date=3 February 2020|website=inews.co.uk|date=31 January 2020 |language=en}}</ref><ref>{{Cite web|title=Displaying number plates|url=https://www.gov.uk/displaying-number-plates/flags-symbols-and-identifiers|access-date=2021-01-01|website=GOV.UK|language=en}}</ref> 
+[[File:Northern Ireland Rear Registration Plate (Blank identification band).png|thumb|270x270px|A Belfast plate displaying the optional EU format "UK" country code. Any other format displaying a side badge, including those bearing the codes "NI" or "IRL", are unofficial.]]
+
+==Administration==
+The [[Administrative counties of Ireland|administrative counties of Northern Ireland]] were abolished by the [[Local Government Act (Northern Ireland) 1972]], and their responsibility for issuing registrations was transferred to the [[Minister of Home Affairs (Northern Ireland)|NI Ministry of Home Affairs]],<ref>{{cite web|url=http://www.legislation.gov.uk/nisro/1973/337/contents/made|title=The Vehicles Excise (Transfer of Functions) (Supplementary Provisions) Order (Northern Ireland) 1973|work=[[Legislation.gov.uk]]|access-date=4 May 2018}}</ref> and later the [[Department of the Environment (Northern Ireland)|Department of the Environment NI]]. The former vehicle section in the [[county town]] of each local authority became a "local office" of the relevant departmental agency, formerly Driver and Vehicle Licensing Northern Ireland and latterly the [[Driver and Vehicle Agency]] (DVA) in [[Coleraine]].
+
+From 21 July 2014, vehicle registration in Northern Ireland became the responsibility of the [[Driver and Vehicle Licensing Agency]] DVLA in [[Swansea]], which also administers the system used in Great Britain. The pre-1972 format of Northern Ireland registration plates continues unchanged in Northern Ireland.
+
+==County codes in alphabetical order==
+All the codes from <code>IA</code> to <code>IZ</code>, and from <code>AI</code> to <code>WI</code> (except for those containing G, Q, S and V, plus <code>II</code>), were [[Vehicle registration plates of the Republic of Ireland#Pre-1987 mark codes|allocated throughout the island of Ireland in 1903]], in alphabetical order of counties and then of county boroughs. Hence, Antrim was allocated <code>IA</code> and Armagh <code>IB</code>, while [[County Dublin]], now in the Republic of Ireland, was allocated <code>IK</code>, in between <code>IJ</code> for Down and <code>IL</code> for Fermanagh. Shortly before the [[partition of Ireland]] in 1922, Belfast completed <code>OI</code> and was thus allocated the next available code, <code>XI</code>, while <code>YI</code> and then <code>ZI</code> were allocated to [[Dublin|Dublin City]]. After the partition, all codes with Z as the first letter (<code>ZA</code>, <code>ZB</code> etc.) were allocated in the Republic of Ireland, while all codes with Z as the second letter (<code>AZ</code>, <code>BZ</code> etc.) were allocated in Northern Ireland with the exception of County Mayo which had originally been allocated IZ. <code>IG</code> was allocated to Fermanagh in 2004. <code>VI</code> was allocated to City of Derry/Londonderry in 2023.
+
+{| class="wikitable"
+|-
+!Code !!County or City !!Code !!County or City !!Code !!County or City
+|-
+| '''AZ''' || [[Belfast]] || '''IL''' || [[County Fermanagh|Fermanagh]] || '''SZ''' || [[County Down|Down]]
+|-
+| '''BZ''' || [[County Down|Down]] || '''IW''' || [[County Londonderry]] || '''TZ''' || [[Downpatrick]]  (from 2025 reassigned from Belfast)
+|-
+| '''CZ''' || [[Belfast]] || '''JI''' || [[County Tyrone|Tyrone]] || '''UI''' || [[Derry|City of Derry]]
+|-
+| '''DZ''' || [[County Antrim|Antrim]] || '''JZ''' || [[County Down|Down]] || '''UZ''' || [[Ballymena]] (from 2025 reassigned from Belfast )
+|-
+| '''EZ''' || [[Belfast]] || '''KZ''' || [[County Antrim|Antrim]] || '''VI'''|| [[Derry|City of Derry]]
+|-
+| '''FZ''' || [[Belfast]] || '''LZ''' || [[County Armagh|Armagh]] || '''VZ''' || [[County Tyrone|Tyrone]]
+|-
+| '''GZ''' || [[Belfast]] || '''MZ''' || [[Belfast]] || '''WZ''' || [[Armagh]] (from 2025 Reassigned from Belfast)
+|-
+| '''HZ''' || [[County Tyrone|Tyrone]] || '''NZ''' || [[County Londonderry]] || '''XI''' || [[Belfast]]
+|-
+| '''IA''' || [[County Antrim|Antrim]] || '''OI''' || [[Belfast]] || '''XZ''' || [[County Armagh|Armagh]]
+|-
+| '''IB''' || [[County Armagh|Armagh]] || '''OZ''' || [[Belfast]] || '''YZ''' || [[County Londonderry]]
+|-
+| '''IG''' || [[County Fermanagh|Fermanagh]] || '''PZ''' || [[Belfast]] || '''QNI''' ||  Cars with indeterminate age, kit cars.
+|-
+| '''IJ''' || [[County Down|Down]] || '''RZ''' || [[County Antrim|Antrim]] || '''LTZ''' || Buses built in Northern Ireland<br/> for [[Transport for London]]  
+|}
+
+
+===Series per administrative county / DVA licensing local office===
+For each DVA licensing local office<ref>{{cite web |url = http://www.dvlni.gov.uk/lvlolocation.htm |title = DVA licensing Local Offices official website |work = dvlni.gov.uk |access-date = 16 September 2016 |archive-url = https://web.archive.org/web/20120326110659/http://www.dvlni.gov.uk/lvlolocation.htm |archive-date = 26 March 2012 |url-status = dead |df = dmy-all }}</ref> (administrative county before 1974) the two-letter sequences are shown first, followed by the reversed two-letter sequences, then the three-letter sequences.
+
+{|class="wikitable"
+! CC<br>code
+!colspan="2"| CC number range
+!colspan="2"| number CC range
+!colspan="2"| ACC–YCC number range
+!colspan="2"| number range ACC–YCC
+|-
+!colspan="9"| County Antrim / Ballymena
+|-
+! <code>IA</code> 
+| 1 to 9999 || Dec 1903 – Mar 1932
+| 1 to 9999 || Jan 1958 – Jun 1960
+| 1 to 9998{{#tag:ref|Authority transferred from [[Antrim County Council]] to Ballymena LVLO/VRO from 1 January 1974; the first registration following the transfer was <code>GIA&nbsp;8977</code>.|group="n"}} || Jan 1966 – Jul 1985
+| 1001 to 9998 || Likely next
+|-
+! <code>DZ</code> 
+| 1 to 9999 || Mar 1932 – Jan 1947
+| 301 to 9999 || Jun 1960 – Sep 1962
+| 101 to 9998{{#tag:ref|<code>BDZ</code> ended at <code>7458</code> due to computerisation in October 1986, followed by <code>CDZ&nbsp;101</code>.|group="n"}} || Jul 1985 – May 1998
+|-
+! <code>KZ</code> 
+| 1 to 9999 || Jan 1947 – Feb 1954
+| 1 to 9999 || Sep 1962 – Jun 1964
+| 1001 to 9998 || May 1998 – May 2010
+|-
+! <code>RZ</code> 
+| 1 to 9999 || Feb 1954 – Jan 1958
+| 501 to 9999 || Jun 1964 – Jan 1966
+| 1001 to 9998 ||May 2010 – current
+|-
+!colspan="9"| County Armagh / Armagh
+|-
+! <code>IB</code> 
+| 1 to 9999 || Dec 1903 – Aug 1947<ref group="n" name="lzib"/>
+| 301 to 9999 || Apr 1962 – Nov 1965
+| 1 to 9998 || Mar 1972 – Nov 1996{{#tag:ref|Authority transferred from [[Armagh County Council]] to Armagh LVLO/VRO from 1 January 1974; the first registration following the transfer was <code>AIB&nbsp;7786</code>.|group="n"}}{{#tag:ref|<code>JIB</code> ended at <code>4400</code> due to computerisation in 1986, followed by <code>KIB&nbsp;101</code>.|group="n"}}
+| 1001 to 9998 || Likely next
+|-
+! <code>LZ</code> 
+| 1 to 9999 || Jan 1947{{#tag:ref|Although <code>LZ</code> commenced in January 1947, <code>IB</code> was not completed until August 1947.|group="n"|name="lzib"}} – Nov 1957
+| 1 to 9999 || Nov 1965 – Mar 1969
+| 1001 to 9998 || Nov 1996 – May 2010
+|-
+! <code>XZ</code> 
+| 1 to 9999 || Nov 1957 – Apr 1962
+| 1 to 9999 || Mar 1969 – Mar 1972
+| 1001 to 9998 || May 2010 – current
+|-
+!colspan="9"| Belfast County Borough / Belfast City
+|-
+! <code>OI</code> 
+| 1 to 9999 || Jan 1904 – Jan 1921
+| 1000 to 9999 || Jun 1958 – Jun 1959
+| 1 to 9999{{#tag:ref|Authority transferred from Belfast City Council to Belfast LVLO/VRO from 1 January 1974; the first registration following the transfer was <code>GOI&nbsp;8301</code>.|group="n"}}|| Apr 1969 – Apr 1982
+|-
+! <code>XI</code> 
+| 1 to 9999 || Jan 1921 – Feb 1928
+| 1000 to 9999 || Jun 1959 – Apr 1960
+| 1 to 9998 || Apr 1982 – Feb 1993
+|-
+! <code>AZ</code> 
+| 1 to 9999 || Feb 1928 – Nov 1932
+| 1 to 9999 || Apr 1960 – Mar 1961
+| 1001 to 9998 || Feb 1993 – Mar 1999
+|-
+! <code>CZ</code> 
+| 1 to 9999 || Nov 1932 – Oct 1935
+| 1 to 9999 || Mar 1961 – Apr 1962
+| 1001 to 9998 || Mar 1999 – Sep 2004
+|-
+! <code>EZ</code> 
+| 1 to 9999 || Oct 1935 – Oct 1938
+| 1 to 9999 || Apr 1962 – Apr 1963
+| 1001 to 9998 || Sep 2004 – Sep 2009
+|-
+! <code>FZ</code> 
+| 1 to 9999 || Oct 1938 – May 1942
+| 1 to 9999 || Apr 1963 – Jan 1964
+| 1001 to 9998 || Sep 2009 – Nov 2015
+|-
+! <code>GZ</code> 
+| 1 to 9999 || May 1942 – Dec 1947
+| 1 to 9999 || Jan 1964 – Sep 1964
+| 1001 to 9998 || Nov 2015 – Feb 2023
+|-
+! <code>MZ</code> 
+| 1 to 9999 || Dec 1947 – Jun 1950
+| 1 to 9999 || Sep 1964 – May 1965
+| 1001 to 9998 || Feb 2023 – current
+|-
+! <code>OZ</code> 
+| 1 to 9999 || Jun 1950 – Jan 1953
+| 1 to 9999 || May 1965 – Mar 1966
+| 1001 to 9998 || Likely next
+|-
+! <code>PZ</code> 
+| 1 to 9999 || Jan 1953 – Aug 1954
+| 1 to 9999 || Mar 1966 – Jan 1967
+|-
+! <code>TZ</code> 
+| 1 to 9999 || Aug 1954 – Oct 1955
+| 1 to 9999 || Jan 1967 – Oct 1967
+| {{#tag:ref|Since 2013, the <code>LTZ</code> series has been used by [[Transport for London]] for its [[New Routemaster]] buses, which are built in Northern Ireland.|group="n"}} || Mid-2013 – current
+|-
+! <code>UZ</code> 
+| 1 to 9999 || Oct 1955 – Mar 1957
+| 1 to 9999 || Oct 1967{{#tag:ref|A batch of reverse <code>UZ</code> was issued early in July 1967 for [[Belfast City Transport]].|group="n"}} – Jun 1968
+|-
+! <code>WZ</code> 
+| 1 to 9999 || Mar 1957 – Jun 1958
+| 1 to 9999 || Jun 1968 – Apr 1969
+|-
+!colspan="9"| County Down / Downpatrick
+|-
+! <code>IJ</code> 
+| 1 to 9999{{#tag:ref|<code>IJ&nbsp;1-100</code> were mixed allocations to all types of vehicles, but thereafter there was a period when motorcycles were segregated in blocks; the following were the motorcycle blocks: <code>IJ 101-150, 201-249, 301-350, 451-500, 551-600, 651-700, 751-800, 851-950, 1001-1100, 1151-1200</code> and <code>1251</code> up, (no information thereafter). Other vehicles took the remaining numbers, but <code>1000-1050</code> were, in fact, duplicated.|group="n"}} || Dec 1903 – Apr 1930
+| 101 to 9999 || Oct 1958 – May 1961
+| 1 to 9998{{#tag:ref|Authority transferred from [[Down County Council]] to Downpatrick LVLO/VRO from 1 January 1974; the first registration following the transfer was in the early <code>FIJ</code> series.|group="n"}}{{#tag:ref|<code>XIJ</code> ended at <code>3439</code> due to computerisation in October 1986, followed by <code>YIJ&nbsp;101</code>.|group="n"}} || May 1967 – May 1987
+| 1001 to 9998 || Likely next
+|-
+! <code>BZ</code> 
+| 1 to 9999 || Apr 1930 – Oct 1946
+| 201 to 9999 || May 1961 – Nov 1963
+| 101 to 9998 || May 1987 – Sep 2000
+|-
+! <code>JZ</code> 
+| 1 to 9999 || Oct 1946 – Aug 1954
+| 201 to 9999 || Nov 1963 – Jul 1965
+| 1001 to 9998 || Sep 2000 – Nov 2016
+|-
+! <code>SZ</code> 
+| 1 to 9999 || Aug 1954 – Oct 1958
+| 1 to 9999 || Jul 1965 – May 1967
+| 1001 to 9998 || Nov 2016 – current
+|-
+!colspan="9"| County Fermanagh / Enniskillen
+|-
+! <code>IL</code> 
+| 1 to 9999 || Jan 1904 – Feb 1958
+| 51 to 9999 || Feb 1958 – Aug 1966
+| 1001 to 9998{{#tag:ref|Authority transferred from [[Fermanagh County Council]] to Enniskillen LVLO/VRO from 1 January 1974; the first registration following the transfer was in the late <code>AIL</code> series.|group="n"}}{{#tag:ref|<code>EIL</code> ended at <code>2423</code> due to computerisation in October 1986, followed by <code>FIL&nbsp;101</code>.|group="n"}} || Aug 1966 – Dec 2004
+| 1001 to 9998 || Likely next
+|-
+! <code>IG</code> 
+|1001 to 9998 ||Dec 2004 – current {{#tag:ref|Used for imported classic vehicles.|group="n"}}
+|
+|
+| 1001 to 9998 || Dec 2004 – current
+|-
+!colspan="9"|County Londonderry / Coleraine
+|-
+! <code>IW</code> 
+| 1 to 9999 || Dec 1903 – Jan 1949
+| 100 to 9999 || Sep 1962 – Oct 1966
+| 1 to 9998{{#tag:ref|Authority transferred from [[Londonderry County Council]] to Coleraine LVLO/VRO from 1 January 1974; the first registration following the transfer was in the early <code>AIW</code> series.|group="n"}}{{#tag:ref|<code>HIW</code> incomplete due to computerisation in October 1986 (highest normal issue unknown), followed by <code>IIW&nbsp;101</code>.|group="n"}} || Oct 1973 – Jul 2000
+| 1001 to 9998 || Likely next
+|-
+! <code>NZ</code> 
+| 1 to 9999 || Jan 1949 – Dec 1957
+| 1 to 9999 || Oct 1966 – Nov 1970
+| 1001 to 9998 || Jul 2000 – Jan 2020
+|-
+! <code>YZ</code> 
+| 1 to 9999 || Dec 1957 – Sep 1962
+| 1 to 9999 || Nov 1970 – Oct 1973
+| 1001 to 9998 || Jan 2020 – current
+|-
+!colspan="9"|Londonderry County Borough / Derry City
+|-
+! <code>UI</code> 
+| 1 to 9999 || Jan 1904 – Aug 1963
+| 100 to 9999 || Aug 1963 – Apr 1973
+| 1 to 9998{{#tag:ref|Authority transferred from Londonderry County Borough Council to Londonderry LVLO/VRO from 1 January 1974; the first registration following the transfer was <code>AUI&nbsp;1110</code>.|group="n"}}{{#tag:ref|<code>CUI</code> ended at <code>7388</code> due to computerisation in October 1986, followed by <code>DUI&nbsp;101</code>.|group="n"}} || Apr 1973 – Oct 2023
+|-
+! <code>VI</code>
+|
+|
+|
+|
+| 1001 to 9998 || Oct 2023 – current
+|-
+!colspan="9"| County Tyrone / Omagh
+|-
+! <code>JI</code> 
+| 1 to 9999 || Dec 1903 – Feb 1944
+| 100 to 9999 || Apr 1961 – Oct 1964
+| 1 to 9998{{#tag:ref|Authority transferred from [[Tyrone County Council]] to Omagh LVLO/VRO from 1 January 1974; the first registration following the transfer was <code>BJI&nbsp;800</code>.|group="n"}}{{#tag:ref|<code>JJI</code> ended at <code>4700</code> due to computerisation in October 1986, followed by <code>KJI&nbsp;101</code>.|group="n"}} || Jun 1971 – Dec 1999
+|-
+! <code>HZ</code> 
+| 1 to 9999 || Feb 1944 – Apr 1956
+| 200 to 9999 || Oct 1964 – Mar 1968
+| 1001 to 9998 || Dec 1999 – Jun 2021
+|-
+! <code>VZ</code> 
+| 1 to 9999 || Apr 1956 – Apr 1961
+| 200 to 9999 || Mar 1968 – Jun 1971
+| 1001 to 9998 || Jun 2021 – current 
+|}
+
+===Current issue per administrative county / DVA licensing local office===
+The current three-letter sequence issued by each DVA licensing local office:
+
+{| class="wikitable"
+|-
+!Code !!County or City !! First Issued 
+|-
+| '''YRZ''' || [[County Antrim|Ballymena]] || July 2026
+|-
+| '''WXZ''' || [[County Armagh|Armagh]] || August 2026
+|-
+| '''MMZ''' || [[Belfast County Borough|Belfast City]] || August 2026
+|-
+| '''KSZ''' || [[County Down|Downpatrick]] || February 2026
+|-
+| '''YIG''' || [[County Fermanagh|Enniskillen]] || December 2024
+|-
+| '''EYZ''' || [[County Londonderry|Coleraine]] || April 2026
+|-
+| '''BVI''' || [[Londonderry County Borough|Derry City]] || July 2025
+|-
+| '''DVZ''' || [[County Tyrone|Omagh]] || October 2026
+|}
+(Updated: October 2026)
+
+===Three-letter sequences not issued===
+The following sequences were deemed inappropriate and will never be issued:
+
+{| class="wikitable"
+|-
+!County or City!!Codes
+|-
+| [[County Antrim|Ballymena]] || '''ARZ'''<ref>{{cite web |url = http://www.speedyreg.co.uk/blogs/2010/05/brz-number-plates-have-arrived/ |title = BRZ Number Plates have arrived |publisher = Speedy Registrations Blog |date = 20 December 2010 |access-date = 29 December 2010 }}</ref>
+|-
+| [[County Fermanagh|Enniskillen]] || '''KIL''' '''NIG''' '''PIG'''{{#tag:ref|<code>CIG</code> was deemed inappropriate and was not issued in sequence. However, the combination has since been issued in DVLA Auctions.|group="n"}} 
+
+|-
+| [[Londonderry County Borough|Derry City]] || '''FUI'''
+|}
+
+The following sequences were never issued:
+
+{| class="wikitable"
+|-
+!County or City!!Codes
+|-
+| [[Belfast County Borough|Belfast City]] || '''IOI''' '''OOI'''{{#tag:ref|<code>NAZ</code> was deemed inappropriate and was not issued in sequence. However, the combination has since been issued in DVLA Auctions, but NAZ 1-199 are withheld.|group="n"}}  
+|}
+
+== See also ==
+{{Portal|United Kingdom}}
+* [[Vehicle registration plates of the United Kingdom]]
+* [[Vehicle registration plates of the Republic of Ireland]]
+
+== Notes ==
+{{reflist|group=notes}}
+
+== References ==
+;Citations
+{{reflist|group="n"}}
+
+;Sources
+{{reflist|30em}}
+
+== External links ==
+* {{Commons category-inline|License plates of Northern Ireland}}
+
+{{Vehicle registration plates of Europe}}
+
+{{DEFAULTSORT:Vehicle Registration Plates Of The United Kingdom}}
+[[Category:Vehicle registration plates by country|Northern Ireland]]
+[[Category:Vehicle registration plates of the United Kingdom| ]]
+[[Category:Road transport in Northern Ireland]]

@@ -1,0 +1,146 @@
+==== Year identifiers ====
+In order to avoid any confusion, the letters I, O, U and Z have never been issued as year identifiers: I because of its similarity to the numeral 1; O because of similarity to a zero; U because of similarity to the letter V; and Z because of similarity to the numeral 2.<ref>{{Cite web|url=https://www.autobulbsdirect.co.uk/blog/car-registration-years-chart/|title=Car Registration By Years|website=Autobulbsdirect.co.uk|access-date=28 August 2026}}</ref>
+
+{| style="width:100%;" role=presentation
+|-
+| style="vertical-align:top;"|
+{| class="wikitable"
+|+ Suffix letter series 1963–1983
+|-
+! scope="col" | Letter
+! scope="col" | Dates of issue
+|-
+! scope="row" | A
+| February 1963<ref name="parkers-77">{{citation |title=Parker's Car Price Guide |date=September 1977}}</ref> – 31 December 1963
+|-
+! scope="row" | B
+| 1 January 1964 – 31 December 1964
+|-
+! scope="row" | C
+| 1 January 1965 – 31 December 1965
+|-
+! scope="row" | D
+| 1 January 1966 – 31 December 1966
+|-
+! scope="row" | E
+| 1 January 1967 – 31 July 1967
+|-
+! scope="row" | F
+| 1 August 1967 – 31 July 1968
+|-
+! scope="row" | G
+| 1 August 1968 – 31 July 1969
+|-
+! scope="row" | H
+| 1 August 1969 – 31 July 1970
+|-
+! scope="row" | J
+| 1 August 1970 – 31 July 1971
+|-
+! scope="row" | K
+| 1 August 1971 – 31 July 1972
+|-
+! scope="row" | L
+| 1 August 1972 – 31 July 1973
+|-
+! scope="row" | M
+| 1 August 1973 – 31 July 1974
+|-
+! scope="row" | N
+| 1 August 1974 – 31 July 1975
+|-
+! scope="row" | P
+| 1 August 1975 – 31 July 1976
+|-
+! scope="row" | R
+| 1 August 1976 – 31 July 1977
+|-
+! scope="row" | S
+| 1 August 1977 – 31 July 1978
+|-
+! scope="row" | T
+| 1 August 1978 – 31 July 1979
+|-
+! scope="row" | V
+| 1 August 1979 – 31 July 1980
+|-
+! scope="row" | W
+| 1 August 1980 – 31 July 1981
+|-
+! scope="row" | X
+| 1 August 1981 – 31 July 1982
+|-
+! scope="row" | Y
+| 1 August 1982 – 31 July 1983
+|}
+| style="vertical-align:top;"|
+{| class="wikitable"
+|+ Prefix letter series 1983–2001
+|-
+! scope="col" | Letter
+! scope="col" | Dates of issue
+|-
+! scope="row" | A
+| 1 August 1983 – 31 July 1984
+|-
+! scope="row" | B
+| 1 August 1984 – 31 July 1985
+|-
+! scope="row" | C
+| 1 August 1985 – 31 July 1986
+|-
+! scope="row" | D
+| 1 August 1986 – 31 July 1987
+|-
+! scope="row" | E
+| 1 August 1987 – 31 July 1988
+|-
+! scope="row" | F
+| 1 August 1988 – 31 July 1989
+|-
+! scope="row" | G
+| 1 August 1989 – 31 July 1990
+|-
+! scope="row" | H
+| 1 August 1990 – 31 July 1991
+|-
+! scope="row" | J
+| 1 August 1991 – 31 July 1992
+|-
+! scope="row" | K
+| 1 August 1992 – 31 July 1993
+|-
+! scope="row" | L
+| 1 August 1993 – 31 July 1994
+|-
+! scope="row" | M
+| 1 August 1994 – 31 July 1995
+|-
+! scope="row" | N
+| 1 August 1995 – 31 July 1996
+|-
+! scope="row" | P
+| 1 August 1996 – 31 July 1997
+|-
+! scope="row" | R
+| 1 August 1997 – 31 July 1998
+|-
+! scope="row" | S
+| 1 August 1998 – 28 February 1999
+|-
+! scope="row" | T
+| 1 March 1999 – 31 August 1999
+|-
+! scope="row" | V
+| 1 September 1999 – 29 February 2000
+|-
+! scope="row" | W
+| 1 March 2000 – 31 August 2000
+|-
+! scope="row" | X
+| 1 September 2000 – 28 February 2001
+|-
+! scope="row" | Y
+| 1 March 2001 – 31 August 2001
+|}
+|}
